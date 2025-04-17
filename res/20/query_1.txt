@@ -1,0 +1,60 @@
+
+ID: 8ccl9aui,
+Text: mosaic evolution of the severe acute respiratory syndrome coronavirus severe acute respiratory syndrome sars is a deadly form of pneumonia caused by a novel coronavirus a viral family responsible for mild respiratory tract infections in a wide variety of animals including humans pigs cows mice cats and birds analyses to date have been unable to identify the precise origin of the sars coronavirus we used bayesian neighbor joining and split decomposition phylogenetic techniques on the sars virus replicase surface spike matrix and nucleocapsid proteins to reveal the evolutionary origin of this recently emerging infectious agent the analyses support a mammalian like origin for the replicase protein an avian like origin for the matrix and nucleocapsid proteins and a mammalian avian mosaic origin for the host determining spike protein a bootscan recombination analysis of the spike gene revealed high nucleotide identity between the sars virus and a feline infectious peritonitis virus throughout the gene except for a base pair region of high identity to an avian sequence these data support the phylogenetic analyses and suggest a possible past recombination event between mammalian like and avian like parent viruses this event occurred near a region that has been implicated to be the human receptor binding site and may have been directly responsible for the switch of host of the sars coronavirus from animals to humans
+
+ID: 12dcftwt,
+Text: possible bat origin of severe acute respiratory syndrome coronavirus we showed that severe acute respiratory syndrome coronavirus is probably a novel recombinant virus its genome is closest to that of severe acute respiratory syndrome related coronaviruses from horseshoe bats and its receptor binding domain is closest to that of pangolin viruses its origin and direct ancestral viruses have not been identified
+
+ID: kqqantwg,
+Text: possible bat origin of severe acute respiratory syndrome coronavirus we showed that severe acute respiratory syndrome coronavirus is probably a novel recombinant virus its genome is closest to that of severe acute respiratory syndrome related coronaviruses from horseshoe bats and its receptor binding domain is closest to that of pangolin viruses its origin and direct ancestral viruses have not been identified
+
+ID: es7q6c90,
+Text: evidence for a common evolutionary origin of coronavirus spike protein receptor binding subunits among different coronavirus genera the receptor binding s subunits of their spike proteins differ in primary secondary and tertiary structures this study identified shared structural topologies connectivity of secondary structural elements in s domains of different coronavirus genera the results suggest that coronavirus s subunits share a common evolutionary origin but have attained diverse sequences and structures following extensive divergent evolution the results also increase understanding of the structures and functions of coronavirus s domains whose tertiary structures are currently unknown
+
+ID: h8ahn8fw,
+Text: origin and evolution of the novel coronavirus
+
+ID: pl48ev5o,
+Text: origin and evolution of the novel coronavirus
+
+ID: t7gpi2vo,
+Text: unveiling the origin and transmission of ncov a novel coronavirus has caused thousands of human infections in china since december raising a global public health concern recent studies huang et al chan et al and zhou et al have provided timely insights into its origin and ability to spread among humans informing infection prevention and control practices
+
+ID: e3wjo0yk,
+Text: novel avian coronavirus and fulminating disease in guinea fowl france for decades french guinea fowl have been affected by fulminating enteritis of unclear origin by using metagenomics we identified a novel avian gammacoronavirus associated with this disease that is distantly related to turkey coronaviruses fatal respiratory diseases in humans have recently been caused by coronaviruses of animal origin
+
+ID: jpnbppry,
+Text: bat origin of a new human coronavirus there and back again
+
+ID: 6foz003n,
+Text: diversity of coronaviruses in bats insights into origin of sars coronavirus
+
+ID: 558awj1m,
+Text: unveiling the origin and transmission of ncov a novel coronavirus has caused thousands of human infections in china since december raising a global public health concern recent studies huang et al chan et al and zhou et al have provided timely insights into its origin and ability to spread among humans informing infection prevention and control practices
+
+ID: 4dtk1kyh,
+Text: origin of novel coronavirus covid a computational biology study using artificial intelligence origin of the covid virus has been intensely debated in the scientific community since the first infected cases were detected in december the disease has caused a global pandemic leading to deaths of thousands of people across the world and thus finding origin of this novel coronavirus is important in responding and controlling the pandemic recent research results suggest that bats or pangolins might be the original hosts for the virus based on comparative studies using its genomic sequences this paper investigates the covid virus origin by using artificial intelligence ai and raw genomic sequences of the virus more than genome sequences of covid infected cases collected from different countries are explored and analysed using unsupervised clustering methods the results obtained from various ai enabled experiments using clustering algorithms demonstrate that all examined covid virus genomes belong to a cluster that also contains bat and pangolin coronavirus genomes this provides evidences strongly supporting scientific hypotheses that bats and pangolins are probable hosts for the covid virus at the whole genome analysis level our findings also indicate that bats are more likely the hosts for the covid virus than pangolins
+
+ID: r0peje13,
+Text: using the spike protein feature to predict infection risk and monitor the evolutionary dynamic of coronavirus background coronavirus can cross the species barrier and infect humans with a severe respiratory syndrome sars cov with potential origin of bat is still circulating in china in this study a prediction model is proposed to evaluate the infection risk of non human origin coronavirus for early warning methods the spike protein sequences of coronaviruses were collected from novel coronavirus resource ncovr database of china national genomics data center on jan a total of human origin viruses were regarded as positive samples whereas non human origin viruses were regarded as negative to capture the key information of the spike protein three feature encoding algorithms amino acid composition aac parallel correlation based pseudo amino acid composition pc pseaac and g gap dipeptide composition ggap were used to train random forest models the optimal feature with the best performance was identified by the multidimensional scaling method which was used to explore the pattern of human coronavirus results the fold cross validation results showed that well performance was achieved with the use of the ggap g feature the predictive model achieved the maximum acc of coupled with the matthews correlation coefficient mcc of seven clusters for human coronaviruses e nl oc hku mers cov sars cov and sars cov were found the cluster for sars cov was very close to that for sars cov which suggests that both of viruses have the same human receptor angiotensin converting enzyme ii the big gap in the distance curve suggests that the origin of sars cov is not clear and further surveillance in the field should be made continuously the smooth distance curve for sars cov suggests that its close relatives still exist in nature and public health is challenged as usual conclusions the optimal feature ggap g performed well in terms of predicting infection risk and could be used to explore the evolutionary dynamic in a simple fast and large scale manner the study may be beneficial for the surveillance of the genome mutation of coronavirus in the field
+
+ID: t1iagum7,
+Text: origin time and epidemic dynamics of the novel coronavirus the novel coronavirus ncov have emerged from wuhan china studying the epidemic dynamics is crucial for further surveillance and control of the outbreak we employed a bayesian framework to infer the time calibrated phylogeny and the epidemic dynamics represented by the effective reproductive number re changing over time from the genomic sequences available from gisaid the origin time is estimated to be december ci december december the median estimate of re ranges from to and changes drastically over time this study provides an early insight of the ncov epidemic
+
+ID: ne5r4d4b,
+Text: origin and evolution of pathogenic coronaviruses severe acute respiratory syndrome coronavirus sars cov and middle east respiratory syndrome coronavirus mers cov are two highly transmissible and pathogenic viruses that emerged in humans at the beginning of the st century both viruses likely originated in bats and genetically diverse coronaviruses that are related to sars cov and mers cov were discovered in bats worldwide in this review we summarize the current knowledge on the origin and evolution of these two pathogenic coronaviruses and discuss their receptor usage we also highlight the diversity and potential of spillover of bat borne coronaviruses as evidenced by the recent spillover of swine acute diarrhoea syndrome coronavirus sads cov to pigs
+
+ID: pe8qxorf,
+Text: erratum to bat origin of a new human coronavirus there and back again we miscalculated identities of several genes and the corrected table should be as follows
+
+ID: yzp9wjuk,
+Text: middle east respiratory syndrome coronavirus mers cov origin and animal reservoir middle east respiratory syndrome coronavirus mers cov is a novel coronavirus discovered in and is responsible for acute respiratory syndrome in humans though not confirmed yet multiple surveillance and phylogenetic studies suggest a bat origin the disease is heavily endemic in dromedary camel populations of east africa and the middle east it is unclear as to when the virus was introduced to dromedary camels but data from studies that investigated stored dromedary camel sera and geographical distribution of involved dromedary camel populations suggested that the virus was present in dromedary camels several decades ago though bats and alpacas can serve as potential reservoirs for mers cov dromedary camels seem to be the only animal host responsible for the spill over human infections
+
+ID: e53b0hj6,
+Text: a origin and possible genetic recombination of the middle east respiratory syndrome coronavirus from the first imported case in china phylogenetics and coalescence analysis
+
+ID: hyo1k7ig,
+Text: possibility of faecal oral transmission of novel coronavirus sars cov via consumption of contaminated foods of animal origin a hypothesis this article has no abstract doi jfqhc
+
+ID: ec8lpgl3,
+Text: scientists strongly condemn rumors and conspiracy theories about origin of coronavirus outbreak science aaas a group of prominent public health scientists from outside china is pushing back against a steady stream of stories and even a scientific paper suggesting a laboratory in wuhan china may be the origin of the outbreak of covid the rapid open and transparent sharing of data on this outbreak is now being threatened by rumours and misinformation around its origins the scientists from nine countries write in a statement published online by the lancet yesterday
