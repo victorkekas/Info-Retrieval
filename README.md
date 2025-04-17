@@ -1,23 +1,13 @@
 # Info-Retrieval
 
-# 🔍 Query Expansion with Synonyms for Information Retrieval
+Team members: Georgios Viktor Kekas - Thanasi Prifti
 
-This project implements a search engine using classical and modern Information Retrieval techniques to enhance query results through synonym expansion. The engine is built with Python and Elasticsearch and evaluated on the [TREC-COVID](https://public.ukp.informatik.tu-darmstadt.de/thakur/BEIR/datasets/trec-covid.zip) dataset.
+This project implements a basic information retrieval system using Elasticsearch. It includes classical vector space search as well as query expansion using synonyms from WordNet and word2vec.
 
-## 📁 Project Structure
+All code is in the `main.ipynb` notebook. The dataset used is [TREC-COVID](https://public.ukp.informatik.tu-darmstadt.de/thakur/BEIR/datasets/trec-covid.zip).
 
-- `data/` – Folder containing the dataset files (`corpus.jsonl`, `queries.jsonl`, `qrels/test.tsv`)
-- `preprocessing.py` – Script to load, clean, and prepare the documents.
-- `indexing.py` – Script to create the index in Elasticsearch and bulk upload documents.
-- `search.py` – Script to run the search queries.
-- `evaluation/` – Scripts and results from `trec_eval`.
-- `README.md` – Project description and usage guide.
+## How to Run
 
-## 🚀 Features
-
-- Classical Vector Space retrieval (ElasticSearch-based)
-- Query expansion using:
-  - WordNet (NLTK)
-  - Word2Vec (Gensim)
-- Evaluation with TREC Eval (MAP, Precision@K)
-
+1. Install the required Python packages:
+   ```bash
+   pip install pandas nltk gensim elasticsearch
