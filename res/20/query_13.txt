@@ -1,60 +1,60 @@
 
-ID: 9pl7mta8,
-Text: management and clinical thinking of coronavirus disease in december the novel coronavirus pneumonia ncp officially named coronavirus disease covid by the world health organization broke out in wuhan hubei and it quickly spread to the whole country and abroad the situation was at stake the sudden and serious covid epidemic has brought us a lot of urgent problems how to effectively control the spread of covid when does the population infection rate rise to its peak what will eventually be the number of infected patients how to make early diagnosis what effective antiviral drugs are available how to effectively treat with existing drugs can it successfully improve the survival rate of critically patients in response to the above questions we put forward corresponding suggestions and reflections from the perspective of the infectious clinician
-
-ID: pw4kjry4,
-Text: management and clinical thinking of coronavirus disease in december the novel coronavirus pneumonia ncp officially named coronavirus disease covid by the world health organization broke out in wuhan hubei and it quickly spread to the whole country and abroad the situation was at stake the sudden and serious covid epidemic has brought us a lot of urgent problems how to effectively control the spread of covid when does the population infection rate rise to its peak what will eventually be the number of infected patients how to make early diagnosis what effective antiviral drugs are available how to effectively treat with existing drugs can it successfully improve the survival rate of critically patients in response to the above questions we put forward corresponding suggestions and reflections from the perspective of the infectious clinician
-
-ID: hnlcwa7m,
-Text: management and clinical thinking of coronavirus disease 中华肝脏病杂志 in december the novel coronavirus pneumonia ncp officially named coronavirus disease covid by the world health organization broke out in wuhan hubei and it quickly spread to the whole country and abroad the situation was at stake the sudden and serious covid epidemic has brought us a lot of urgent problems how to effectively control the spread of covid when does the population infection rate rise to its peak what will eventually be the number of infected patients how to make early diagnosis what effective antiviral drugs are available how to effectively treat with existing drugs can it successfully improve the survival rate of critically patients in response to the above questions we put forward corresponding suggestions and reflections from the perspective of the infectious clinician
-
-ID: hmvo5b0q,
-Text: understanding coronavirus since the identification of the first cases of the coronavirus in december in wuhan china there has been a significant amount of confusion regarding the origin and spread of the so called coronavirus officially named sars cov and the cause of the disease covid conflicting messages from the media and officials across different countries and organizations the abundance of disparate sources of information unfounded conspiracy theories on the origins of the newly emerging virus and the inconsistent public health measures across different countries have all served to increase the level of anxiety in the population where did the virus come from how is it transmitted how does it cause disease is it like flu what is a pandemic what can we do to stop its spread written by a leading expert this concise and accessible introduction provides answers to the most common questions surrounding coronavirus for a general audience
-
-ID: 8t35z4gl,
-Text: understanding the covid outbreak a comparative data analytics and study the coronavirus also known as the covid virus has emerged in wuhan china since late november since that time it has been spreading at large scale until today all around the world it is currently recognized as the world s most viral and severe epidemic spread in the last twenty years as compared to ebola mers and sars despite being still in the middle of the outbreak there is an urgent need to understand the impact of covid the objective is to clarify how it was spread so fast in a short time worldwide in unprecedented fashion this paper represents a first initiative to achieve this goal and it provides a comprehensive analytical study about the coronavirus the contribution of this paper consists in providing descriptive and predictive models that give insights into covid impact through the analysis of extensive data updated daily for the outbreak in all countries we aim at answering several open questions how does covid spread around the world what is its impact in terms of confirmed and death cases at the continent region and country levels how does its severity compare with other epidemic outbreaks including ebola mers and sars is there a correlation between the number of confirmed cases and death cases we present a comprehensive analytics visualization to address the questions mentioned above to the best of our knowledge this is the first systematic analytical papers that pave the way towards a better understanding of covid the analytical dashboards and collected data of this study are available online
-
-ID: 4ah705nc,
-Text: a new transmission route for the propagation of the sars cov coronavirus we explore here how variation in the sars cov virus tropism could influence epidemic spread we use a compartmental model fit to the existing data the model indicates that wuhan quarantine measures were effective but that alternative virus forms gut tropism and a second propagation route through environment was present for singapore and shenzhen region the secondary route does not seem to be active yet adequate prevention measures taking into account both routes should be implemented
+ID: 29wn81da,
+Text: how much is coronavirus spreading under the radar
 
 ID: 2dw318eg,
 Text: why does the coronavirus spread so easily between people
 
-ID: x9d17j5x,
-Text: a new virulent human coronavirus how much does tissue culture tropism tell us
+ID: 3o90pzw7,
+Text: how and who does sars kill
 
-ID: y08iot2a,
-Text: one size does not fit all how to rapidly deploy intubation practice changes in a pediatric hospital during the coronavirus disease pandemic
+ID: 4u9c8lqr,
+Text: does the coronavirus a global threat
 
-ID: 2wxd9sv6,
-Text: the covid pandemic and plastic surgery literature review ethical analysis and proposed guidelines background covid known as the coronavirus has spread to over countries in response many organizations have spoken out and called to cancel all elective surgical procedures objective our study aimed to provide clear recommendations for plastic surgeons to follow by addressing the following issues what defines elective surgery and where does one draw the line between essential versus nonessential services how does this differ in the hospital versus private practice setting if called upon to operate on a patient with covid how do plastic surgeons protect themselves while still providing excellent medical care methods a prisma systematic review of the literature on plastic surgery in the setting of a pandemic was performed on march an ethical analysis was conducted using the four principles of medical ethics results the initial search yielded articles eighteen articles were relevant and included for analysis only one editorial article was published in a plastic surgery journal accordingly no peer reviewed published covid guidelines exist for plastic surgery given that this pandemic may place healthcare systems under undue stress with an unpredictable trajectory it is the responsibility of the plastic surgeon to assess and postpone cases whenever possible to properly contribute to adequate resource allocation and patient safety measures conclusion this article fills an important gap in the literature by addressing covid and providing guidelines for upholding ethics and responsible resource allocation by upholding these standards plastic surgeons can do their part to help minimize the spread of this virus
+ID: 8vsp3ksj,
+Text: novel coronavirus spreads
 
-ID: c9c36az9,
-Text: the covid pandemic and plastic surgery literature review ethical analysis and proposed guidelines background covid known as the coronavirus has spread to over countries in response many organizations have spoken out and called to cancel all elective surgical procedures objective our study aimed to provide clear recommendations for plastic surgeons to follow by addressing the following issues what defines elective surgery and where does one draw the line between essential versus nonessential services how does this differ in the hospital versus private practice setting if called upon to operate on a patient with covid how do plastic surgeons protect themselves while still providing excellent medical care methods a prisma systematic review of the literature on plastic surgery in the setting of a pandemic was performed on march an ethical analysis was conducted using the four principles of medical ethics results the initial search yielded articles eighteen articles were relevant and included for analysis only one editorial article was published in a plastic surgery journal accordingly no peer reviewed published covid guidelines exist for plastic surgery given that this pandemic may place healthcare systems under undue stress with an unpredictable trajectory it is the responsibility of the plastic surgeon to assess and postpone cases whenever possible to properly contribute to adequate resource allocation and patient safety measures conclusion this article fills an important gap in the literature by addressing covid and providing guidelines for upholding ethics and responsible resource allocation by upholding these standards plastic surgeons can do their part to help minimize the spread of this virus
+ID: 6yrehkxw,
+Text: coronavirus the spread of misinformation
 
-ID: gan10za0,
-Text: weathering the pandemic how the caribbean basin can use viral and environmental patterns to predict prepare and respond to covid the coronavirus pandemic is developing at different paces throughout the world some areas like the caribbean basin have yet to see the virus strike at full force when it does there is reasonable evidence to suggest the consequent covid outbreaks will overwhelm healthcare systems and economies this is particularly concerning in the caribbean as pandemics can have disproportionately higher mortality impacts on lower and middle income countries preliminary observations from our team and others suggest that temperature and climatological factors could influence the spread of this novel coronavirus making spatiotemporal predictions of its infectiousness possible this review studies geographic and time based distribution of known respiratory viruses in the caribbean basin in an attempt to foresee how the pandemic will develop in this region this review is meant to aid in planning short and long term interventions to manage outbreaks at the international national and sub national levels in the region this article is protected by copyright all rights reserved
-
-ID: w5kjmw88,
-Text: weathering the pandemic how the caribbean basin can use viral and environmental patterns to predict prepare and respond to covid the coronavirus pandemic is developing at different paces throughout the world some areas like the caribbean basin have yet to see the virus strike at full force when it does there is reasonable evidence to suggest the consequent covid outbreaks will overwhelm healthcare systems and economies this is particularly concerning in the caribbean as pandemics can have disproportionately higher mortality impacts on lower and middle income countries preliminary observations from our team and others suggest that temperature and climatological factors could influence the spread of this novel coronavirus making spatiotemporal predictions of its infectiousness possible this review studies geographic and time based distribution of known respiratory viruses in the caribbean basin in an attempt to foresee how the pandemic will develop in this region this review is meant to aid in planning short and long term interventions to manage outbreaks at the international national and subnational levels in the region
-
-ID: jku8zr1y,
-Text: dissemination of mhv strain jhm infection does not require specific coronavirus receptors in this report we demonstrate the syncytial spread of mhv strain jhm infection through non murine cell cultures which lack a specific mhv receptor and are therefore resistant to infection by free virions this was achieved by allowing infected murine cells to settle onto confluent monolayers of non murine cells in a straightforward infectious center assay receptor independent syncytium formation induced by cells expressing the mhv spike s from recombinant vaccinia viruses vv indicated that spread was mediated by this coronavirus glycoprotein we conclude that the s protein of mhv is so potently fusogenic that it does not require prior binding to a virus specific surface receptor to induce fusion of closely opposed plasma membranes
-
-ID: 8wpccy2y,
-Text: optimized lockdown strategies for curbing the spread of covid a south african case study to curb the spread of covid many governments around the world have implemented tiered lockdowns with varying degrees of stringency lockdown levels are typically increased when the disease spreads and reduced when the disease abates a predictive control approach is used to develop optimized lockdown strategies for curbing the spread of covid these strategies are then applied to south african data the south african case is of immediate interest as the number of confirmed infectious cases does not appear to have peaked yet at the time of writing while at the same time the south african government is busy reducing the degree of lockdown an epidemiological model for the spread of covid in south africa was previously developed and is used in conjunction with a hybrid model predictive controller to optimize lockdown management under different policy scenarios scenarios considered include how flatten the curve to a level that the healthcare system can cope with how to balance lives and livelihoods and what impact the compliance of the population to the lockdown measures has on the spread of covid
-
-ID: y1t9emu1,
-Text: does bronchoscopy help the diagnosis in covid infection severe acute respiratory syndrome coronavirus sars cov is the agent responsible for the recent coronavirus disease covid pandemic this virus is predominantly spread through large droplets the clinical features of covid are varied ranging from asymptomatic to acute respiratory distress syndrome and multi organ dysfunction
-
-ID: 0ai8chbu,
-Text: background information isolation routines the isolation of patients with suspected or documented infections to not spread to others has been discussed for hundreds of years guidelines are many methods are different attitudes show vide variations routines and procedures are still changing regulations by law may be absent and some healthcare professionals may be afraid of adverse outcomes of isolation microbes that are spread in the environment on the hands and equipment are invisible the invisible agent does not call on attention before the infection clinical disease hospital infection or nosocomial infection is a factum that can be registered how to stop the transmission is often to believe and not believe in infection control
-
-ID: wk7moopd,
-Text: how do children spread the coronavirus the science still isn t clear
+ID: i969aqn9,
+Text: does covid spread through droplets alone
 
 ID: 4zz5t5ma,
 Text: going viral how to boost the spread of coronavirus science on social media
 
-ID: svo94kuo,
-Text: covid learning from lessons to guide treatment and prevention interventions coronavirus disease covid is caused by the novel coronavirus severe acute respiratory syndrome coronavirus sars cov and first emerged in december in wuhan hubei province china since then the virus has rapidly spread to many countries while the outbreak in china appears to be in decline the disease has spread across the world with a daily increase in the number of confirmed cases and infection related deaths here we highlight i the lessons that have been learnt so far and how they will benefit reducing the impact of covid disease and ii an update on the status of drug treatment and vaccine development to prevent covid and potential future related pandemics although the mortality rate is clearly higher than for influenza the rate does seem to vary from country to country possibly reflecting differences in how rapidly local health authorities respond to isolate and effectively care for the affected population drugs are urgently needed for both prophylaxis and the treatment of severely ill patients however no proven effective therapies for sars cov currently exist a number of drugs that have been approved for other diseases are being tested for the treatment of covid patients but there is an absence of data from appropriately designed clinical trials showing that these drugs either alone or in combination will prove effective there is also a global urgency to develop a vaccine against covid but development and appropriate testing will take at least a year before such a vaccine will be globally available this review summarizes the lessons learnt so far from the covid pandemic examines the evidence regarding the drugs that are being tested for the treatment of covid and describes the progress made in efforts to develop an effective vaccine
+ID: tk50n0o5,
+Text: going viral how to boost the spread of coronavirus science on social media
+
+ID: uihq7s20,
+Text: covid how does local lockdown work and is it effective
+
+ID: x9d17j5x,
+Text: a new virulent human coronavirus how much does tissue culture tropism tell us
+
+ID: s8af6j58,
+Text: how do children spread the coronavirus the science still isn t clear
+
+ID: wk7moopd,
+Text: how do children spread the coronavirus the science still isn t clear
+
+ID: wrqu2qi1,
+Text: novel coronavirus spreads to tunisia
+
+ID: p3xs9alx,
+Text: covid how does the nhs test and trace service work
+
+ID: lt4qx2zv,
+Text: how much longer does nhs dentistry have left
+
+ID: 7qm6xa9g,
+Text: ss cancer does not care about coronavirus
+
+ID: q5woah3c,
+Text: sars cov does not spread through ecmo or dialysis membranes
+
+ID: zfpl6bsq,
+Text: sars cov does not spread through ecmo or dialysis membranes
+
+ID: jav5qzlg,
+Text: how does one diagnose and manage severe community acquired pneumonia

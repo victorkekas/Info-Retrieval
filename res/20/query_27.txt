@@ -1,60 +1,60 @@
 
-ID: lxowaacg,
-Text: asymptomatic sars cov infection in household contacts of a healthcare provider wuhan china we found that all asymptomatic household contacts of a wuhan china physician with coronavirus disease had severe acute respiratory syndrome coronavirus detected by pcr the index patient and contacts also had abnormal chest computed tomography scans asymptomatic infected household contacts of healthcare workers with coronavirus disease might be underrecognized
+ID: 1szqacmt,
+Text: a confirmed asymptomatic carrier of novel coronavirus
 
-ID: 3as2o2y5,
-Text: asymptomatic sars cov infection in household contacts of a healthcare provider wuhan china we found that all asymptomatic household contacts of a wuhan china physician with coronavirus disease had severe acute respiratory syndrome coronavirus detected by pcr the index patient and contacts also had abnormal chest computed tomography scans asymptomatic infected household contacts of healthcare workers with coronavirus disease might be underrecognized
+ID: 1ix7mtxd,
+Text: asymptomatic patients with novel coronavirus disease covid
 
-ID: 0r8vo1fa,
-Text: asymptomatic cases with sars cov infection on march chinese health authorization announced that numbers of asymptomatic cases with severe acute respiratory syndrome coronavirus sars cov infection will be made to the public daily this was a very important step since different counties have different capacities for the detection of sars cov infection and control strategy for the coronavirus disease outbreak we summarized the characteristics of asymptomatic sars cov infections and the transmission potential of asymptomatic cases then we provided guidelines for the management of asymptomatic cases through quarantine and nucleic acid serology tests
+ID: ls6cdive,
+Text: an asymptomatic patient with covid
 
-ID: eudcs9t2,
-Text: asymptomatic cases with sars cov infection on march chinese health authorization announced that numbers of asymptomatic cases with severe acute respiratory syndrome coronavirus sars cov infection will be made to the public daily this was a very important step since different counties have different capacities for the detection of sars cov infection and control strategy for the coronavirus disease outbreak we summarized the characteristics of asymptomatic sars cov infections and the transmission potential of asymptomatic cases then we provided guidelines for the management of asymptomatic cases through quarantine and nucleic acid serology tests
+ID: 6q35n3g9,
+Text: estimation of the asymptomatic ratio of novel coronavirus infections covid
 
-ID: nlzdto1h,
-Text: comparison of transmissibility of coronavirus between symptomatic and asymptomatic patients reanalysis of the ningbo covid data we investigate the transmissibility of coronavirus for symptomatic and asymptomatic patients using the ningbo covid data through more in depth and comprehensive statistical analysis we conclude that there is no difference in the transmission rates of coronavirus between the symptomatic and asymptomatic patients which is consistent with the original findings in chen et al
+ID: mkwwbliy,
+Text: identification and management of asymptomatic carriers of coronavirus disease covid in china
 
-ID: pgn7tm8f,
-Text: asymptomatic novel coronavirus pneumonia presenting as acute cerebral infarction case report and review of the literature 中华急诊医学杂志 an outbreak of novel coronavirus pneumonia that began in wuhan china has spread rapidly in december with cases now confirmed in multiple countries as the number of cases increases we pay more and more attention to asymptomatic novel coronavirus pneumonia we report the first case of asymptomatic novel coronavirus pneumonia presenting as acute cerebral infarction and describe the identification diagnosis clinical course and emergency treatment including this case highlights the the importance of emergency medical teams in initial assessment of emergency public health emergencies as well as the necessary of the emergency chest ct for screening asymptomatic novel coronavirus pneumonia
+ID: a1370rjp,
+Text: asymptomatic coronavirus infection mers cov and sars cov covid
 
-ID: cu52j6tq,
-Text: antibody responses to sars cov at weeks postinfection in asymptomatic patients we compared levels of severe acute respiratory syndrome coronavirus neutralizing antibodies in recovery plasma from completely asymptomatic coronavirus disease patients with those in symptomatic patients in south korea we found that serologic diagnostic testing was positive for of completely asymptomatic patients but neutralizing antibody response occurred in all patients
+ID: o49ah12j,
+Text: asymptomatic severe acute respiratory syndrome associated coronavirus infection
 
-ID: q7mm4nwm,
-Text: antibody responses to sars cov at weeks postinfection in asymptomatic patients we compared levels of severe acute respiratory syndrome coronavirus neutralizing antibodies in recovery plasma from completely asymptomatic coronavirus disease patients with those in symptomatic patients in south korea we found that serologic diagnostic testing was positive for of completely asymptomatic patients but neutralizing antibody response occurred in all patients
+ID: o1kzb6dm,
+Text: identification and management of asymptomatic carriers of coronavirus disease covid in china
 
-ID: 10v7kfcd,
-Text: comparison of clinical characteristics of patients with asymptomatic vs symptomatic coronavirus disease in wuhan china this case series examines clinical characteristics of patients with asymptomatic vs symptomatic coronavirus disease in wuhan china
+ID: bp9xz9wk,
+Text: coronavirus
 
-ID: qrf7n7dr,
-Text: clinical outcome of asymptomatic cases at the time of hospital admission infected with sars coronavirus in shenzhen china the journal of infectious diseases oxford academic abstract an epidemic caused by sars coronavirus infection has spread unexpectedly in wuhan hubei province china since december it is rarely reported about asymptomatic cases screened from close contacts we study epidemiological and clinical outcome of asymptomatic carriers who were laboratory confirmed positive for the sars coronavirus by testing the nucleic acid of the pharyngeal swab samples the evidence showed that asymptomatic carriers occurred more often in middle aged people who had close contact with infected family members the majority of the cases developed to be mild and ordinary covid during hospital
+ID: vj000wal,
+Text: coronavirus
 
-ID: g12i1jig,
-Text: evidence supporting transmission of severe acute respiratory syndrome coronavirus while presymptomatic or asymptomatic recent epidemiologic virologic and modeling reports support the possibility of severe acute respiratory syndrome coronavirus sars cov transmission from persons who are presymptomatic sars cov detected before symptom onset or asymptomatic sars cov detected but symptoms never develop sars cov transmission in the absence of symptoms reinforces the value of measures that prevent the spread of sars cov by infected persons who may not exhibit illness despite being infectious critical knowledge gaps include the relative incidence of asymptomatic and symptomatic sars cov infection the public health interventions that prevent asymptomatic transmission and the question of whether asymptomatic sars cov infection confers protective immunity
+ID: be0mr85h,
+Text: coronavirus
 
-ID: ffs350f2,
-Text: characteristics of asymptomatic patients with sars cov infection in jinan china coronavirus disease covid caused by severe acute respiratory syndrome coronavirus sars cov is continuously and rapidly circulating at present asymptomatic patients have been proven to be contagious and thus pose a significant infection control challenge here we describe the characteristics of asymptomatic patients with sars cov infection in jinan shandong province china a total of patients with confirmed covid were recruited among them patients were categorized as asymptomatic cases we found that the asymptomatic patients in jinan were relatively young and were mainly clustered cases the laboratory indicators and lung lesion on chest ct were mild no special factors were found accounting for the presence or absence of symptoms the presence of asymptomatic patients increased the difficulty of screening it is necessary to strengthen the identification of such patients in the future
+ID: sfs5hsr9,
+Text: coronavirus
 
-ID: mu2v9o1p,
-Text: identification of rt pcr negative asymptomatic covid patients via serological testing asymptomatic individuals with coronavirus disease covid have been identified via nucleic acid testing for severe acute respiratory syndrome coronavirus sars cov however the epidemiologic characteristics and viral shedding pattern of asymptomatic patients remain largely unknown in this study serological testing was applied when identifying nine asymptomatic cases of covid who showed persistent negative rt pcr test results for sars cov nucleic acid and no symptoms of covid two asymptomatic cases were presumed to be index patients who had cleared the virus when their close contacts developed symptoms of covid three of the asymptomatic cases were local individuals who spontaneously recovered before their presumed index patients developed symptoms of covid this report presents the epidemiologic and clinical characteristics of asymptomatic individuals with sars cov infection that were undetected on rt pcr tests in previous epidemiologic investigations probably due to the transient viral shedding duration
+ID: j1cdoxqs,
+Text: coronavirus
 
-ID: tj5pv57m,
-Text: clinical outcomes in patients with severe acute respiratory syndrome coronavirus who were asymptomatic at hospital admission in shenzhen china an epidemic caused by severe acute respiratory syndrome coronavirus sars cov infection has spread unexpectedly in wuhan hubei province china since december there are few reports about asymptomatic contacts of infected patients identified as positive for sars cov through screening we studied the epidemiological and clinical outcomes in asymptomatic carriers who were laboratory confirmed to be positive for sars cov through nucleic acid testing of pharyngeal swab samples the asymptomatic carriers seldom occurred among young people aged years who had close contact with infected family members in the majority of patients the outcome was mild or ordinary novel coronavirus disease during hospitalization
+ID: qprzgmwz,
+Text: asymptomatic sars cov infection
 
-ID: fjnhoai4,
-Text: clinical outcomes in patients with severe acute respiratory syndrome coronavirus who were asymptomatic at hospital admission in shenzhen china an epidemic caused by severe acute respiratory syndrome coronavirus sars cov infection has spread unexpectedly in wuhan hubei province china since december there are few reports about asymptomatic contacts of infected patients identified as positive for sars cov through screening we studied the epidemiological and clinical outcomes in asymptomatic carriers who were laboratory confirmed to be positive for sars cov through nucleic acid testing of pharyngeal swab samples the asymptomatic carriers seldom occurred among young people aged years who had close contact with infected family members in the majority of patients the outcome was mild or ordinary novel coronavirus disease during hospitalization
+ID: i97pogyu,
+Text: outcome of universal screening of asymptomatic neonates for covid from asymptomatic mothers
 
-ID: uq1801p1,
-Text: transmission potential of asymptomatic and paucisymptomatic severe acute respiratory syndrome coronavirus infections a family cluster study in china data concerning the transmission of severe acute respiratory syndrome coronavirus sars cov in asymptomatic and paucisymptomatic patients are lacking we report a family cluster of infections involving asymptomatic and paucisymptomatic transmission eight of members from families were confirmed with sars cov infection of patients were asymptomatic and was paucisymptomatic an asymptomatic mother transmitted the virus to her son and a paucisymptomatic father transmitted the virus to his month old daughter sars cov was detected in the environment of household the complete genomes of sars cov from the patients were identical and were clustered with other sars cov sequences reported from china and other countries
+ID: mkd93wbm,
+Text: testing asymptomatic emergency department patients for coronavirus disease covid in a low prevalence region
 
-ID: 6qsk6mij,
-Text: asymptomatic middle east respiratory syndrome coronavirus mers cov infection extent and implications for infection control a systematic review abstract background the middle east respiratory syndrome coronavirus mers cov emerged in and attracted an international attention as the virus caused multiple healthcare associated outbreaks there are reports of the role of asymptomatic individuals in the transmission of mers cov however the exact role is not known method the medline pubmed and scopus databases were searched for relevant papers published till august describing asymptomatic mers cov infection results a total of papers were retrieved and included in the final analysis and review the extent of asymptomatic mers infection had increased with change in the policy of testing asymptomatic contacts in early cases in april october were asymptomatic among pcr laboratory confirmed mers cov cases while in the proportion rose to among confirmed cases the proportion of asymptomatic cases reported among pediatric confirmed mers cov cases were higher overall the detection rate of mers infection among asymptomatic contacts was in studies included in this review asymptomatic individuals were less likely to have underlying condition compared to fatal cases of particular interest is that most of the identified pediatric cases were asymptomatic with no clear explanation conclusions the proportion of asymptomatic mers cases were detected with increasing frequency as the disease progressed overtime those patients were less likely to have comorbid disease and may contribute to the transmission of the virus
+ID: ipr065r3,
+Text: comparison of clinical characteristics of patients with asymptomatic vs symptomatic coronavirus disease in wuhan china
 
-ID: xwvtjm6s,
-Text: characteristics of asymptomatic patients with sars cov infection in jinan china abstract coronavirus disease covid caused by severe acute respiratory syndrome coronavirus sars cov is continuously and rapidly circulating at present asymptomatic patients have been proven to be contagious and thus pose a significant infection control challenge here we describe the characteristics of asymptomatic patients with sars cov infection in jinan shandong province china a total of patients with confirmed covid were recruited among them patients were categorized as asymptomatic cases we found that the asymptomatic patients in jinan were relatively young and were mainly clustered cases the laboratory indicators and lung lesion on chest ct were mild no special factors were found accounting for the presence or absence of symptoms the presence of asymptomatic patients increased the difficulty of screening it is necessary to strengthen the identification of such patients in the future
+ID: qlir6keq,
+Text: clinical characteristics of asymptomatic patients with covid
 
-ID: 1pnc889f,
-Text: comparison of transmissibility of coronavirus between symptomatic and asymptomatic patients reanalysis of the ningbo covid data background since the outbreak of the novel coronavirus disease covid in december the coronavirus has spread all over the world at an unprecedented rate the transmissibility of coronavirus from asymptomatic patients to healthy individuals has received enormous attention an important study using the covid data from the city ningbo china was carried out to estimate and compare the transmission rates of the coronavirus by the symptomatic and asymptomatic patients however in the original analysis the usual chi squared tests were unduly used for some contingency tables with small cell counts including zero which may violate the assumptions for the chi squared test objective we reanalyze the data from the city ningbo with more appropriate statistical methods to draw more reliable and sound conclusions on the transmission rates of the coronavirus by the symptomatic and asymptomatic patients methods we exclude the cases associated with the super spreader and adopt more appropriate statistical methods including the permutation test and fisher s exact test to reanalyze the covid data from the city ningbo results after excluding the cases related to the super spreader fisher s exact test yields p value which indicates stronger evidence of no difference in the transmission rates compared with the original analysis the odds ratio of transmission rates of coronavirus between the symptomatic and asymptomatic patients is with a confidence interval conclusions through a more in depth and comprehensive statistical analysis of the ningbo data we conclude that there is no difference in the transmission rates of coronavirus between the symptomatic and asymptomatic patients
+ID: r6as6syi,
+Text: asymptomatic and pre symptomatic covid in china
 
-ID: o3b5zm5l,
-Text: comparison of transmissibility of coronavirus between symptomatic and asymptomatic patients reanalysis of the ningbo covid data background since the outbreak of the novel coronavirus disease covid in december the coronavirus has spread all over the world at an unprecedented rate the transmissibility of the coronavirus from asymptomatic patients to healthy individuals has received enormous attention an important study using covid data from the city of ningbo china was carried out to estimate and compare the transmission rates of the coronavirus by the symptomatic and asymptomatic patients however in the original analysis the usual chi square tests were unduly used for some contingency tables with small cell counts including zero which may violate the assumptions for the chi square test objective we reanalyze the data from the city of ningbo with more appropriate statistical methods to draw more reliable and sound conclusions on the transmission rates of the coronavirus by the symptomatic and asymptomatic patients methods we excluded the cases associated with the super spreader and adopted a more appropriate statistical method including the permutation test and the fisher exact test to reanalyze the covid data from the city of ningbo results after excluding the cases related to the super spreader the fisher exact test yields a p value of which indicates stronger evidence of no difference in the transmission rates compared with the original analysis the odds ratio of the coronavirus transmission rates between the symptomatic and asymptomatic patients is with a confidence interval conclusions through a more in depth and comprehensive statistical analysis of the ningbo data we concluded that there is no difference in the transmission rates of coronavirus between symptomatic and asymptomatic patients
+ID: 5ha2ryv2,
+Text: presumed asymptomatic carrier transmission of covid

@@ -1,60 +1,60 @@
 
-ID: nsp2t0i6,
-Text: heart injury signs are associated with higher and earlier mortality in coronavirus disease covid importance heart injury can be easily induced by viral infection such as adenovirus and enterovirus however whether coronavirus disease covid causes heart injury and hereby impacts mortality has not yet been fully evaluated objective to explore whether heart injury occurs in covid on admission and hereby aggravates mortality later design setting and participants a single center retrospective cohort study including covid patients admitted from december to january in wuhan jinyintan hospital china follow up was completed on february exposures high levels of heart injury indicators on admission hs tni ck ck mb ldh α hbdh main outcomes and measures mortality in hospital and days from admission to mortality survival days results of patients with covid the mean age was years standard deviation range years and were male increased hs tni levels on admission tended to occur in older patients and patients with comorbidity especially hypertension high hs tni on admission pg ml even within the clinical normal range pg ml already can be associated with higher mortality high hs tni was associated with increased inflammatory levels neutrophils il crp and pct and decreased immune levels lymphocytes monocytes and cd and cd t cells ck was not associated with mortality increased ck mb levels tended to occur in male patients and patients with current smoking high ck mb on admission was associated with higher mortality high ck mb was associated with increased inflammatory levels and decreased lymphocytes increased ldh and α hbdh levels tended to occur in older patients and patients with hypertension both high ldh and α hbdh on admission were associated with higher mortality both high ldh and α hbdh were associated with increased inflammatory levels and decreased immune levels hs tni level on admission was negatively correlated with survival days r ci p ldh level on admission was negatively correlated with survival days r ci p conclusions and relevance heart injury signs arise in covid especially in older patients patients with hypertension and male patients with current smoking covid virus might attack heart via inducing inflammatory storm high levels of heart injury indicators on admission are associated with higher mortality and shorter survival days covid patients with signs of heart injury on admission must be early identified and carefully managed by cardiologists because covid is never just confined to respiratory injury
+ID: 3fa5qgn4,
+Text: heart
 
-ID: g8grcy5j,
-Text: the stirling protocol putting the environment at the heart of prosperity and social inclusion abstract while the global coronavirus crisis impacts society and the economy in a myriad of ways it provides what is likely to be a once in a lifetime opportunity for us to rethink our response to climate change according to the global risk register extreme weather and climate action failure are the two most likely and impactful risks to the global economy which now more than ever needs to be avoided addressing the major challenges that we face from climate change can often appear to conflict with economic priorities add to this the fact that environmental mitigation steps can inadvertently exclude sections of the population and the enormity and complexity of climate change responses can result in paralysis in contrast the stirling protocol provides the framework for rapid effective action and comprises three pillars environment economy inclusion by addressing and balancing these three pillars the simple protocol can be adopted throughout organisations putting the environment at the heart of sustainable prosperity and inclusion and provide a benchmark for positive action
+ID: 2mtgcqdo,
+Text: toward understanding the coronavirus and its impact on the heart
 
-ID: lr7a2fvr,
-Text: the environmental impacts of the coronavirus the covid coronavirus pandemic has resulted in global lockdowns sharply curtailing economic activity it is a unique experiment with substantial impacts that will form the agenda for research there are five sets of questions the short term impacts on emissions the natural environment and environmental policy including regulations and cop longer term consequences from the deployment of macroeconomic monetary and fiscal stimuli and investment in green deals possible further deglobalisation and its impact on climate change and nature intergenerational environmental impacts including debt and pollution burdens on future generations and possible behavioural changes to the environment both positive and negative
+ID: yvmewa1r,
+Text: coronavirus and the hearts of doctors
 
-ID: 9n733bet,
-Text: expert opinion of the working group on heart failure of the polish cardiac society the patient with heart failure facing the covid pandemic new coronavirus sars cov severe acute respiratory syndrome coronavirus acute respiratory failure is the cause of the rapidly spreading coronavirus disease covid coronavirus disease affecting thousands of people around the world due to the limited information on heart dysfunction in patients with covid a synthetic summary of current knowledge is needed to help clinicians who care for patients with cardiovascular disease especially heart failure hf patients we present the expert opinion of the polish cardiac society working group of heart failure pcs hf
+ID: chea6hef,
+Text: the heart in the time of the coronavirus
 
-ID: sltofaox,
-Text: obesity cardiovascular disease and influenza how are they connected purpose of review to better understand the impact of obesity and cardiovascular diseases on influenza a infection recent findings this infection could have detrimental outcomes in obese patients with cardiovascular diseases such as an increased risk length of hospitalization disease severity morbidity and mortality nevertheless there also might be some cardioprotective benefits associated with influenza vaccination such as a reduced mortality hospitalization and acute coronary syndromes in patients with coronary heart disease and or heart failure summary obesity negatively impacts immune function and host defense recent studies report obesity to be an independent risk factor for increased morbidity and mortality following infection obese patients might need special considerations in the treatment however there is not enough evidence to fully comprehend the mechanisms behind the reduced immunocompetence when influenza a infection occurs future studies should focus on special consideration treatments when the patients have not been vaccinated and have cardiovascular diseases
+ID: mtg4l456,
+Text: the heart in the time of the coronavirus
 
-ID: 13akn7dm,
-Text: a close up on covid and cardiovascular diseases abstract aims to analyze the potential mechanism of cardiovascular dysfunctions induced by coronavirus disease covid and to evaluate more effective therapeutic pathways for patients with cardiovascular diseases data synthesis covid mainly invades the lungs causing its serious damage studies found that covid induced the renin angiotensin system imbalance inflammatory storm hypoxemia and stress response et al all contributed to hypertension and serious myocardial damage in the process of virus pathogenesis even increasing mortality in covid patients conclusions in the process of management of covid infections close attention should be paid on both lung and cardiovascular damage especially on those with only symptoms of cardiovascular diseases early identification timely and effective treatments maintenance of hemodynamics and electrophysiological stability are of great significance on effective treatment and long term prognosis the pandemic of covid has been taking lives worldwide it caused by a novel coronavirus which human being are lack of defensive function in whole population it targets human s lung and causes serious damage of lungs based on early reports for people with underlying heart issues the concerns are serious it appears people over with coronary heart diseases or hypertension is more likely to be infected and to develop more severe symptoms in addition some of hospitalized covid patients had cardiovascular diseases in china as characteristic analysis of covid patients hypertension and severe myocardial damage contribute to severity and mortality of covid patients therefore to better understand the development of covid and the impacts of cardiovascular diseases will add valuable measures to the management of covid patients
+ID: ofx56c28,
+Text: at the heart of covid
 
-ID: fitz1vjs,
-Text: cardiovascular considerations for the internist and hospitalist in the covid era it is clear that existing cardiovascular disease is a major risk factor for covid and related adverse outcomes in addition to acute respiratory syndrome a large cohort also develop myocardial and or vascular dysfunction in part from inflammation and renin angiotensin system activation with increased sympathetic outflow cardiac arrhythmias ischemia heart failure and thromboembolic complications that portend poor covid outcomes we summarize here recent information for hospitalists internists on the front line of this pandemic regarding its cardiovascular impacts and management and need for cardiovascular consultation
+ID: k6lzra89,
+Text: covid and the heart
 
-ID: 3tn9soup,
-Text: transforming ambulatory heart failure care in the coronavirus disease era initial experience from a heart failure disease management clinic
+ID: 0s0n2kxv,
+Text: impact of the covid pandemic on heart failure hospitalizations
 
-ID: 4sd9ydzk,
-Text: coronavirus disease with acute respiratory distress syndrome mimicking heart failure exacerbation time to rethink a year old man with a prior heart failure presented with fever cough and dyspnea for days physical examination showed bilateral rales on the lung exam yet no lower extremity edema the combination of symptoms elevated inflammatory markers normal baseline pro b type natriuretic peptide pao fio and positive swab suggested coronavirus disease covid with acute respiratory distress syndrome ards rather than heart failure exacerbation we discuss the challenges in management of ards in covid patients that may initially mimic as acute exacerbation of heart failure
+ID: hblv5pe0,
+Text: the psychological impact of sars a matter of heart and mind
 
-ID: 3qdpuzo1,
-Text: coronavirus covid impacts to dentistry and potential salivary diagnosis
+ID: n4iu5nsg,
+Text: secondary impact of the covid pandemic on patients with heart failure
 
-ID: 9eswybhq,
-Text: coronavirus quels impacts sur le cerveau
+ID: gtew2uvx,
+Text: secondary impact of the covid pandemic on patients with heart failure
 
-ID: jh1h9yd4,
-Text: impacts of the coronavirus pandemic on biodiversity conservation
+ID: hlua9aa9,
+Text: heart transplantation for advanced heart failure
 
-ID: dg34vy2t,
-Text: specific considerations for pediatric fetal and congenital heart disease patients and echocardiography service providers during the novel coronavirus outbreak council on pediatric and congenital heart disease supplement to the statement of the american society of echocardiography endorsed by the society of pediatric echocardiography and the fetal heart society
+ID: hfl1z04t,
+Text: the impact of the coronavirus disease pandemic and italian lockdown measures on clinical presentation and management of acute heart failure
 
-ID: fzof7y3m,
-Text: the patient with heart failure in the face of the coronavirus disease pandemic an expert opinion of the heart failure working group of the polish cardiac society severe acute respiratory syndrome coronavirus sars cov a new coronavirus that induces acute respiratory failure among other conditions is the cause of the rapidly spreading coronavirus disease covid affecting thousands of people around the world the present expert opinion is a synthetic summary of the current knowledge on the various aspects of heart failure in patients with covid the aim of the paper was to provide clinicians with necessary information useful in daily clinical practice
+ID: 9j0s0dp5,
+Text: the impact of novel coronavirus on dermatology
 
-ID: o92a0z3w,
-Text: a novel role of nifuroxazide in attenuation of sepsis associated acute lung and myocardial injuries role of tlr nlpr il β signaling interruption acute lung injury ali and the subsequent multi system organ failure is a serious health problem with devastating impacts on the health care systems indeed the world has been facing an un preceded situation in the past couple of months following covid infestation and the associated high mortality rates mainly attributed to sepsis and the associated multiple organ failures of particular concern acute respiratory distress syndrome post lung injury the current study provides evidence on the ameliorative impact of nifuroxazide and fda approved antidiarrheal drug in attenuation of lipopolysaccharide lps induced ali and myocarditis when administrated either in prophylactic or curative regimens nifuroxazide administration was associated with a significant improvement in lung and heart histopathological characteristics and architecture with retraction of lps induced inflammatory infiltration this was associated with retraction in serum biomarkers of cellular injury of which ldh ck mb and alp nifuroxazide administration was associated with a significant improvement in both lung and heart oxidative status such positive outcomes were underlined by a significant inhibitory effect of nifuroxazide on lung and heart contents of toll like receptor tlr the inflammasome nalpr interleukin β il β in conclusion nifuroxazide attenuates lps induced ali and myocardial injury via interruption of tlr nalpr il β signaling thus it can offer a potential approach for attenuation of sepsis in critically ill patients
+ID: h7x4yzet,
+Text: covid and heart disease
 
-ID: k08f3raf,
-Text: coronavirus disease and the cardiovascular system impacts and implications
+ID: cc1adn8f,
+Text: inside the heart of covid
 
-ID: 54vyzxjf,
-Text: an experimental model for myocarditis and congestive heart failure after rabbit coronavirus infection in a model for virus induced myocarditis and congestive heart failure rabbit coronavirus infection was divided into acute days and subacute days phases on the basis of day of death and pathologic findings during the acute phase the principal histologic lesions were degeneration and necrosis of myocytes myocytolysis interstitial edema and hemorrhage the severity of these changes increased in the subacute phase pleural effusion and congestion of the lungs and liver were also present at this time myocarditis was detected by day and peaked by day heart weights and heart weight to body weight ratios were increased and dilation of the right ventricular cavity became prominent early in infection and persisted in contrast dilation of the left ventricle occurred late in the subacute stage virus was isolated from infected hearts between days and these data suggest that rabbit coronavirus infection progresses to myocarditis and congestive heart failure
+ID: 8kooi5ze,
+Text: covid the heart of the issue
 
-ID: ph2v402v,
-Text: a novel role of nifuroxazide in attenuation of sepsis associated acute lung and myocardial injuries role of tlr nlpr il ß signaling interruption acute lung injury ali and the subsequent multi system organ failure is a serious health problem with devastating impacts on the health care systems indeed the world has been facing an un preceded situation in the past couple of months following covid infestation and the associated high mortality rates mainly attributed to sepsis and the associated multiple organ failures of particular concern acute respiratory distress syndrome post lung injury the current study provides evidence on the ameliorative impact of nifuroxazide and fda approved antidiarrheal drug in attenuation of lipopolysaccharide lps induced ali and myocarditis when administrated either in prophylactic or curative regimens nifuroxazide administration was associated with a significant improvement in lung and heart histopathological characteristics and architecture with retraction of lps induced inflammatory infiltration this was associated with retraction in serum biomarkers of cellular injury of which ldh ck mb and alp nifuroxazide administration was associated with a significant improvement in both lung and heart oxidative status such positive outcomes were underlined by a significant inhibitory effect of nifuroxazide on lung and heart contents of toll like receptor tlr the inflammasome nalpr interleukin ß il ß in conclusion nifuroxazide attenuates lps induced ali and myocardial injury via interruption of tlr nalpr il ß signaling thus it can offer a potential approach for attenuation of sepsis in critically ill patients
+ID: zj4cy1m7,
+Text: covid the heart of the issue
 
-ID: 98nwedhg,
-Text: covid complicated by acute pulmonary embolism and right sided heart failure a patient with coronavirus disease covid developed sudden shortness of breath and hypoxia she was diagnosed with a massive pulmonary embolism pe complicated by right sided heart failure which was successfully managed conservatively this marks the first report of covid induced pe in association with acute heart failure
+ID: 8nitrtjf,
+Text: exercising heart and head in managing coronavirus disease in wuhan
 
-ID: q5zabro0,
-Text: an experimental model for dilated cardiomyopathy after rabbit coronavirus infection a rabbit model for coronavirus induced dilated cardiomyopathy is described acute rabbit coronavirus infection results in virus induced myocarditis and congestive heart failure of the survivors of rabbit coronavirus infection had increased heart weight and heart weight to body weight ratios biventricular dilation myocyte hypertrophy myocardial fibrosis and myocarditis consistent with the development of dilated cardiomyopathy these changes were also seen in the remaining of the survivors except that the degree of myocyte hypertrophy was reduced and only right ventricular dilation was present in most survivors myocarditis was usually mild foci transverse section but in some cases it was severe foci transverse section interstitial and replacement fibrosis was more pronounced in the papillary muscles these data suggest that rabbit coronavirus infection may progress to dilated cardiomyopathy
+ID: 1j6u67zz,
+Text: exercising heart and head in managing coronavirus disease in wuhan

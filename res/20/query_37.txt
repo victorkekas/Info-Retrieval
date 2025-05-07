@@ -1,60 +1,60 @@
 
-ID: arp07mck,
-Text: phylogenetic analysis of the full length sars cov sequences evidence for phylogenetic discordance in three genomic regions the origin of the severe acute respiratory syndrome coronavirus sars cov remains unclear evidence based on bayesian scanning plots and phylogenetic analysis using maximum likelihood ml and bayesian methods indicates that sars cov for the largest part of the genome is more closely related to group ii coronaviruses sequences whereas in three regions in the orf ab gene it shows no apparent similarity to any of the previously characterized groups of coronaviruses there is discordant phylogenetic clustering of sars cov and coronaviruses sequences throughout the genome compatible with either ancient recombination events or altered evolutionary rates in different lineages or a combination of both j med virol wiley liss inc
-
-ID: t5ar9pp0,
-Text: genomic characterisation and phylogenetic analysis of sars cov in italy this report describes the isolation the molecular characterization and the phylogenetic analysis of the first three complete genomes of sars cov isolated from three patients involved in the first outbreak of covid in lombardy italy early molecular epidemiological tracing suggests that sars cov was present in italy weeks before the first reported cases of infection
-
-ID: 1mbn5cc5,
-Text: genomic characterization and phylogenetic analysis of sars cov in italy this report describes the isolation molecular characterization and phylogenetic analysis of the first three complete genomes of severe acute respiratory syndrome coronavirus sars cov isolated from three patients involved in the first outbreak of covid in lombardy italy early molecular epidemiological tracing suggests that sars cov was present in italy weeks before the first reported cases of infection
-
-ID: p9s0ywtw,
-Text: genomic characterization and phylogenetic analysis of sars cov in italy this report describes the isolation molecular characterization and phylogenetic analysis of the first three complete genomes of severe acute respiratory syndrome coronavirus sars cov isolated from three patients involved in the first outbreak of covid in lombardy italy early molecular epidemiological tracing suggests that sars cov was present in italy weeks before the first reported cases of infection
-
-ID: 5qn5h7p5,
-Text: the novel coronavirus sars cov from a zoonotic infection to coronavirus disease the novel coronavirus cov severe acute respiratory syndrome sars cov is an international public health emergency until now the intermediate host and mechanisms of the interspecies jump of this virus are unknown phylogenetic analysis of all available bat cov complete genomes was performed to analyze the relationships between bat cov and sars cov to suggest a possible intermediate host another phylogenetic reconstruction of cov genomes obtained from animals that were hypothetically commercialized in the chinese markets was also carried out moreover mutation analysis was executed to suggest genomic regions that may have permitted the adaptation of sars cov to the human host the phylogenetic analysis demonstrated that sars cov formed a cluster with the bat cov isolate ratg possible cov interspecies jumps among bat isolates were also observed the phylogenetic tree reconstructed from cov strains belonging to different animals demonstrated that sars cov bat ratg and pangolin cov genomes formed a monophyletic cluster demonstrating that pangolins may be suggested as sars cov intermediate hosts three aa substitutions localized in the s portion of the s gene were observed some of which have been correlated to structural modifications of the s protein which may facilitate sars cov tropism to human cells our analysis shows the tight relationship between sars cov and bat sars like strains it also hypothesizes that pangolins might have been possible intermediate hosts of the infection some of the observed aa substitutions in the s binding protein may serve as possible adaptation mutations in humans but more studies are needed to elucidate their function
-
-ID: 4ze0mfxp,
-Text: the novel coronavirus sars cov from a zoonotic infection to coronavirus disease covid objective the novel coronavirus sars cov is an international public health emergency until now the intermediate host and mechanisms of interspecies jump of this virus are unknown methods phylogenetic analysis of all available bat coronavirus cov complete genomes was performed in order to analyze the relationships between bat cov and sars cov in order to suggest a possible intermediate host another phylogenetic reconstruction of cov genomes obtained from animals which were hypothetically commercialized in the chinese markets was also carried out moreover mutation analysis was executed to suggest genomic regions which may have permitted the adaptation of sars cov to the human host results the phylogenetic analysis demonstrated that sars cov formed a cluster with the bat cov isolate ratg possible cov interspecies jumps among bat isolates were also observed the phylogenetic tree reconstructed from cov strains belonging to different animals demonstrated that sars cov bat ratg and pangolin cov genomes formed a monophyletic cluster demonstrating that pangolins may be suggested as sars cov intermediate hosts three aa substitutions localized in the s portion of the s gene were observed some of which have been correlated to structural modifications of the s protein which may facilitate sars cov tropism to human cells conclusions our analysis shows the tight relationship between sars cov and bat sars like strains it also hypothesizes that pangolins might have been possible intermediate hosts of the infection some of the observed aa substitutions in the s binding protein may serve as possible adaptation mutations in humans but more studies are needed to elucidate their function this article is protected by copyright all rights reserved
-
-ID: agox0lbq,
-Text: analysis on the sars cov genome of pumc isolate objective to perform variation and phylogenetics analysis on the sars cov genome sequence pumc isolated in the peking union medical college hospital methods the cdna library of sars cov pumc isolate was constructed by means of random priming strategy random selected plasmid was sequenced and the genome sequence of sars cov pumc was assembled by conventional methods the genebank accession no of sars cov pumc is ay the variation and phylogenetics analysis were performed by comparing the pumc sequence with other sars cov isolates results ten variation sites were found by comparing pumc isolate with tor and urbani isolates in phylogenetic analysis of sars cov isolates two classes were observed and there is different differential time between these two classes and the different isolates in each class conclusions the evidence of phylogenetic analysis of different sars cov isolates from different region is instructive for understanding the clinical relations between the different isolates and the transmission chain of sars cov
-
-ID: j1wvajjz,
-Text: detailed phylogenetic analysis of sars cov reveals latent capacity to bind human ace receptor sars cov is a once in a century pandemic having emerged suddenly as a highly infectious viral pathogen previous phylogenetic analyses show its closest known evolutionary relative to be a virus isolated from bats ratg with a common assumption that sars cov evolved from a zoonotic ancestor via recent genetic changes likely in the spike protein receptor binding domain or rbd that enabled it to infect humans we used detailed phylogenetic analysis ancestral sequence reconstruction and molecular dynamics simulations to examine the spike rbd s functional evolution finding to our surprise that it has likely possessed high affinity for human cell targets since at least
-
-ID: jhlnwoml,
-Text: sars cov molecular and phylogenetic analysis in covid patients a preliminary report from iran background the aim of the current study was to investigate and track the sars cov in iranian coronavirus disease covid patients using molecular and phylogenetic methods methods we enrolled seven confirmed cases of covid patients for the phylogenetic assessment of the sars cov in iran the nsp nsp and s genes were amplified using one step rt pcr and sequenced using sanger sequencing method popular bioinformatics software were used for sequences alignment and analysis as well as phylogenetic construction results the mean age of the patients in the present study was years and were male the results indicated high similarity between iranian and chinese strains we could not find any particular polymorphisms in the assessed regions of the three genes phylogenetic trees by neighbor joining and maximum likelihood method of nsp nsp and s genes showed that there are not any differences between iranian isolates and those of other countries conclusion as a preliminary phylogenetic study in iranian sars cov isolates we found that these isolates are closely related to the chinese and reference sequences also no sensible differences were observed between iranian isolates and those of other countries further investigations are recommended using more comprehensive methods and larger sample sizes
-
-ID: d0imcmcl,
-Text: genetic distance of sars coronavirus from the recent natural case abstract phylogenetic analysis of sars coronavirus isolates based on the spike gene and protein sequence using neighbor joining maximum likelihood and bayesian inference methods indicated that a recent human sars cov isolate was closer to some human sars cov isolates from earlier epidemic phase than to the sars cov like viruses isolated from wild animals during previous epidemic phase a reasonable judgment based on phylogenetic relationship and sequence variations it is likely that the recent human sars cov isolate is closer to an unknown sars cov predecessor
-
-ID: mjxs395h,
-Text: sars cov molecular and phylogenetic analysis in covid patients a preliminary report from iran background the aim of the current study was to investigate and track the sars cov in iranian coronavirus disease covid patients using molecular and phylogenetic methods methods we enrolled seven confirmed cases of covid patients for the phylogenetic assessment of the sars cov in iran the nsp nsp and s genes were amplified using one step rt pcr and sequenced using sanger sequencing method popular bioinformatics software were used for sequences alignment and analysis as well as phylogenetic construction results the mean age of the patients in the present study was years and were male the results indicated high similarity between iranian and chinese strains we could not find any particular polymorphisms in the assessed regions of the three genes phylogenetic trees by neighbor joining and maximum likelihood method of nsp nsp and s genes showed that there are not any differences between iranian isolates and those of other countries conclusion as a preliminary phylogenetic study in iranian sars cov isolates we found that these isolates are closely related to the chinese and reference sequences also no sensible differences were observed between iranian isolates and those of other countries further investigations are recommended using more comprehensive methods and larger sample sizes
-
-ID: m3505b5w,
-Text: phylogenetic analysis of sars cov genomes in turkey covid has effectively spread worldwide as of may turkey is among the top ten countries with the most cases a comprehensive genomic characterization of the virus isolates in turkey is yet to be carried out here we built a phylogenetic tree with globally obtained severe acute respiratory syndrome coronavirus sars cov genomes we identified the subtypes based on the phylogenetic clustering in comparison with the previously annotated classifications we performed a phylogenetic analysis of the first sars cov genomes isolated and sequenced in turkey we suggest that the first introduction of the virus to the country is earlier than the first reported case of infection virus genomes isolated from turkey are dispersed among most types in the phylogenetic tree we find of the seventeen subclusters enriched with the isolates of turkey which likely have spread expansively in the country finally we traced virus genomes based on their phylogenetic placements this analysis suggested multiple independent international introductions of the virus and revealed a hub for the inland transmission we released a web application to track the global and interprovincial virus spread of the isolates from turkey in comparison to thousands of genomes worldwide
-
-ID: 7u97in7o,
-Text: phylogenetic analysis of sars cov genomes in turkey covid has effectively spread worldwide as of may turkey is among the top ten countries with the most cases a comprehensive genomic characterization of the virus isolates in turkey is yet to be carried out here we built a phylogenetic tree with globally obtained severe acute respiratory syndrome coronavirus sars cov genomes we identified the subtypes based on the phylogenetic clustering in comparison with the previously annotated classifications we performed a phylogenetic analysis of the first thirty sars cov genomes isolated and sequenced in turkey we suggest that the first introduction of the virus to the country is earlier than the first reported case of infection virus genomes isolated from turkey are dispersed among most types in the phylogenetic tree we find two of the seventeen sub clusters enriched with the isolates of turkey which likely have spread expansively in the country finally we traced virus genomes based on their phylogenetic placements this analysis suggested multiple independent international introductions of the virus and revealed a hub for the inland transmission we released a web application to track the global and interprovincial virus spread of the isolates from turkey in comparison to thousands of genomes worldwide
-
 ID: wvkbihj8,
 Text: median joining network analysis of sars cov genomes is neither phylogenetic nor evolutionary
-
-ID: 005b2j4b,
-Text: monophyletic relationship between severe acute respiratory syndrome coronavirus and group coronaviruses although primary genomic analysis has revealed that severe acute respiratory syndrome coronavirus sars cov is a new type of coronavirus the different protein trees published in previous reports have provided no conclusive evidence indicating the phylogenetic position of sars cov to clarify the phylogenetic relationship between sars cov and other coronaviruses we compiled a large data set composed of concatenated protein sequences and performed comprehensive analyses using the maximum likelihood bayesian inference and maximum parsimony methods all resulting phylogenetic trees displayed an identical topology and supported the hypothesis that the relationship between sars cov and group covs is monophyletic relationships among all major groups were well resolved and were supported by all statistical analyses
-
-ID: 2kbi9drl,
-Text: children s hospital los angeles covid analysis research database card a resource for rapid sars cov genome identification using interactive online phylogenetic tools effective response to the coronavirus disease covid pandemic requires genomic resources and bioinformatics tools for genomic epidemiology and surveillance studies that involve characterizing full length viral genomes identifying origins of infections determining the relatedness of viral infections performing phylogenetic analyses and monitoring the continuous evolution of the sars cov viral genomes the children s hospital los angeles chla covid analysis research database card https covid cpmbiodev net is a comprehensive genomic resource that provides access to full length sars cov viral genomes and associated meta data for over as of may isolates collected from global sequencing repositories and the sequencing performed at the center for personalized medicine cpm at chla reference phylogenetic trees of global and usa viral isolates were constructed and are periodically updated using selected high quality sars cov genome sequences these provide the baseline and analytical context for identifying the origin of a viral infection as well as the relatedness of sars cov genomes of interest a web based and interactive phylogenetic tree browser supports flexible tree manipulation and advanced analysis based on keyword search while highlighting time series animation as well as subtree export for graphical representation or offline exploration a virus genome tracker accepts complete or partial sars cov genome sequence compares it against all available sequences in the database at time of writing detects and annotates the variants and places the new viral isolate within the global or usa phylogenetic contexts based upon variant profiles and haplotype comparisons in a few seconds the generated analysis can potentially aid in genomic surveillance to trace the transmission of any new infection using chla card we demonstrate the identification of a candidate outbreak point where of chla internal isolates may have originated we also discovered multiple indels of unknown clinical significance in the orf a gene and revealed a number of usa specific variants and haplotypes
 
 ID: 5nhh01wa,
 Text: reply to sánchez pacheco et al chookajorn and mavian et al explaining phylogenetic network analysis of sars cov genomes
 
-ID: ifsk0ep1,
-Text: spread dynamics of sars cov epidemic in china a phylogenetic analysis to reveal the detailed spread dynamics of sars cov epidemic in china a phylogenetic analysis was performed by the bayesian inference framework tool strains were retrieved from confirmed cases in china until march the tmrca of sars cov strains in china could be traced back to december according to the effective population size curve reconstructed by skyline model this research revealed the influence of travel ban measures on the effective population size in china furthermore we divided the epidemic process of sars cov in china into stages according to the effective population size curve with the bayesian stochastic search variable selection method phylogeographical reconstruction detailedly described the geographic spread behavior of sars cov in each stage and confirmed the importance of travel ban in blocking sars cov cross regional spread this article summarizes the influence of prevention and control measures in china which has a positive impact on the world
+ID: zvr2xsoo,
+Text: sars cov and eosinophilia
 
-ID: c3ezmshe,
-Text: sars cov phylogenetic analysis lazio region italy february march we report phylogenetic and mutational analysis of severe acute respiratory syndrome coronavirus virus strains from the lazio region of italy and provide information about the dynamics of virus spread data suggest effective containment of clade v strains but subsequently multiple waves of clade g strains were circulating widely in europe
+ID: 7ic7t9dz,
+Text: spread of sars cov
 
-ID: hj9hj4xh,
-Text: sars cov phylogenetic analysis lazio region italy february march we report phylogenetic and mutational analysis of severe acute respiratory syndrome coronavirus virus strains from the lazio region of italy and provide information about the dynamics of virus spread data suggest effective containment of clade v strains but subsequently multiple waves of clade g strains were circulating widely in europe
+ID: 1jb85jo3,
+Text: sars cov in iceland
+
+ID: z53sxg20,
+Text: sars cov and eosinophilia
+
+ID: qsmbjm4x,
+Text: spread of sars cov
+
+ID: cp3vl2xs,
+Text: sars cov and hiv
+
+ID: di36olka,
+Text: sars cov and covid
+
+ID: wbwmmozo,
+Text: sars cov testing
+
+ID: vl5tf72x,
+Text: sars cov and dentistry
+
+ID: fpkieod9,
+Text: sars cov and hiv
+
+ID: jbhze1c6,
+Text: incidence of sars cov vertical transmission a meta analysis
+
+ID: gpb0l6to,
+Text: incidence of sars cov vertical transmission a meta analysis
+
+ID: pcu3rghx,
+Text: sars cov human disinfection chambers a critical analysis
+
+ID: wcnyncld,
+Text: observation and analysis of cases of asymptomatic sars cov infection
+
+ID: y5dvlcda,
+Text: analysis of sars cov receptor activity of ace orthologs
+
+ID: t5ar9pp0,
+Text: genomic characterisation and phylogenetic analysis of sars cov in italy this report describes the isolation the molecular characterization and the phylogenetic analysis of the first three complete genomes of sars cov isolated from three patients involved in the first outbreak of covid in lombardy italy early molecular epidemiological tracing suggests that sars cov was present in italy weeks before the first reported cases of infection
+
+ID: agox0lbq,
+Text: analysis on the sars cov genome of pumc isolate objective to perform variation and phylogenetics analysis on the sars cov genome sequence pumc isolated in the peking union medical college hospital methods the cdna library of sars cov pumc isolate was constructed by means of random priming strategy random selected plasmid was sequenced and the genome sequence of sars cov pumc was assembled by conventional methods the genebank accession no of sars cov pumc is ay the variation and phylogenetics analysis were performed by comparing the pumc sequence with other sars cov isolates results ten variation sites were found by comparing pumc isolate with tor and urbani isolates in phylogenetic analysis of sars cov isolates two classes were observed and there is different differential time between these two classes and the different isolates in each class conclusions the evidence of phylogenetic analysis of different sars cov isolates from different region is instructive for understanding the clinical relations between the different isolates and the transmission chain of sars cov
+
+ID: xkwx7ct9,
+Text: sampling bias and incorrect rooting make phylogenetic network tracing of sars cov infections unreliable

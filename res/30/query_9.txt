@@ -1,90 +1,90 @@
 
-ID: jkzxjk54,
-Text: genome organization of canada goose coronavirus a novel species identified in a mass die off of canada geese the complete genome of a novel coronavirus was sequenced directly from the cloacal swab of a canada goose that perished in a die off of canada and snow geese in cambridge bay nunavut canada comparative genomics and phylogenetic analysis indicate it is a new species of gammacoronavirus as it falls below the threshold of amino acid similarity in the protein domains used to demarcate coronaviridae additional features that distinguish the genome of canada goose coronavirus include novel orfs a partial duplication of the gene and a presumptive change in the proteolytic processing of polyproteins a and ab
-
-ID: 4v3d86h3,
-Text: novel coronavirus old partisanship covid attitudes and behaviours in the united states and canada the novel coronavirus reached the united states and canada almost at the same time the first reported american case was january and in canada it was january canada holshue et al yet the response to this crisis has been different in the two countries in the us president donald trump prominent republicans and conservative media initially dismissed the dangers of covid stecula the pandemic became politicized from the early days and even though trump and republicans have walked back many of their initial claims there continue to be media reports of partisan differences in public opinion shaped by that early response at the same time the response in canada has been mostly characterized by across the board partisan consensus among political elites merkley et al
-
-ID: 9hbgn66l,
-Text: temporal estimates of case fatality rate for covid outbreaks in canada and the united states background estimates of the case fatality rate cfr associated with coronavirus disease covid vary widely in different population settings we sought to estimate and compare the covid cfr in canada and the united states while adjusting for potential biases in crude cfr methods we used the daily incidence of confirmed covid cases and deaths in canada and the us from jan to apr we applied a statistical method to minimize bias in the crude cfr by accounting for the survival interval as the lag time between disease onset and death while considering reporting rates of covid cases less than confidence interval results using data for confirmed cases in canada we estimated the crude cfr to be on apr and the adjusted cfr to be credible interval cri after we accounted for various reporting rates less than the adjusted cfr was estimated at cri the us crude cfr was estimated to be on apr with an adjusted cfr of cri with reporting rates of less than the adjusted cfr for the us was cri interpretation our estimates suggest that if the reporting rate is less than the adjusted cfr of covid in canada is likely to be less than the cfr estimates for the us were higher than those for canada but the adjusted cfr still remained below quantification of case reporting can provide a more accurate measure of the virulence and disease burden of severe acute respiratory syndrome coronavirus
-
-ID: cietpenq,
-Text: first imported case of novel coronavirus in canada presenting as mild pneumonia
-
-ID: 7v8r079h,
-Text: communication transparency key as canada faces new coronavirus threat
-
-ID: vx5rd8hs,
-Text: diagnosis and management of first case of covid in canada lessons applied from sars we report diagnosis and management of the first laboratory confirmed case of coronavirus disease covid hospitalized in toronto canada no healthcare associated transmission occurred in the face of a potential pandemic of covid we suggest sustainable and scalable control measures developed based on lessons learned from sars
-
-ID: glah2z2m,
-Text: temporal estimates of case fatality rate for covid outbreaks in canada and the united states background estimates of the casefatality rate cfr associated with coronavirus disease covid vary widely in different population settings we sought to estimate and compare the covid cfr in canada and the united states while adjusting for potential biases in crude cfr methods we used the daily incidence of confirmed covid cases and deaths in canada and the us from jan to apr we applied a statistical method to minimize bias in the crude cfr by accounting for the survival interval as the lag time between disease onset and death while considering reporting rates of covid cases less than confidence interval results using data for confirmed cases in canada we estimated the crude cfr to be on apr and the adjusted cfr to be credible interval cri after we accounted for various reporting rates less than the adjusted cfr was estimated at cri the us crude cfr was estimated to be on apr with an adjusted cfr of cri with reporting rates of less than the adjusted cfr for the us was cri interpretation our estimates suggest that if the reporting rate is less than the adjusted cfr of covid in canada is likely to be less than the cfr estimates for the us were higher than those for canada but the adjusted cfr still remained below quantification of case reporting can provide a more accurate measure of the virulence and disease burden of severe acute respiratory syndrome coronavirus
-
-ID: wb35wm6k,
-Text: first imported case of novel coronavirus in canada presenting as mild pneumonia vol pg
+ID: aeo9l81q,
+Text: immunization in canada
 
 ID: gz70hd7d,
 Text: canada and coronavirus could have done better
 
-ID: pbemaim9,
-Text: porcine teschovirus polioencephalomyelitis in western canada beginning in a small number of pig farms in western canada began reporting week old pigs with bilateral hind end paresis or paralysis low numbers of pigs were affected some died most had to be euthanized and those that survived had reduced weight gains and neurological deficits necropsies revealed no gross lesions but microscopic lesions consisted of a nonsuppurative polioencephalomyelitis most severe in the brain stem and spinal cord the lesions were most consistent with a viral infection tests for circovirus porcine reproductive and respiratory syndrome virus coronavirus rabies virus and pseudorabies virus were negative using immunohistochemistry virus neutralization fluorescent antibody test and nested reverse transcription polymerase chain reaction porcine teschovirus was identified in tissues from affected individuals to the authors knowledge this is the first report of teschovirus encephalitis in western canada and the first reported case of polioencephalomyelitis in pigs in canada where teschovirus was confirmed as the cause
+ID: n97bfo0j,
+Text: sars back in canada
 
-ID: nalulzfo,
-Text: human coronavirus nl infection in canada the isolation of human coronavirus nl hcov nl in the netherlands raised questions about its contribution to respiratory illness in this study a total of respiratory specimens collected in canada primarily during the winter months of were tested for hcov nl tested positive for hcov nl demonstrating virus activity during january march patients with hcov nl were month years old median age years the main clinical presentations were fever sore throat and cough and patients were hospitalized these results provide evidence for the worldwide distribution of hcov nl
+ID: pi0rmaot,
+Text: health care in canada
+
+ID: xt18ly5d,
+Text: physician mobility in canada
 
 ID: 0ujw0gak,
 Text: communication transparency key as canada faces new coronavirus threat
 
-ID: pemnzfv8,
-Text: once more unto the breach dear friends reflections on the novel coronavirus disease and emergency medicine in canada
+ID: 7v8r079h,
+Text: communication transparency key as canada faces new coronavirus threat
 
-ID: xnf5jf56,
-Text: once more unto the breach dear friends reflections on the novel coronavirus disease and emergency medicine in canada
+ID: 120uu4dh,
+Text: climate change and health in canada
 
-ID: kgifmjvb,
-Text: tracking the origin of early covid cases in canada the original coronavirus disease covid outbreak in wuhan china has become a global pandemic by tracking the earliest covid cases in canada we produced a voronoi treemap to show the travel origins of the country s earliest covid cases by march even though the majority of the world s covid confirmed cases still had their origin in china only of canada s first covid cases arose due in travelers to china the most commonly reported travel history among the cases originated from the middle east the united states and europe thus in retrospect broadening of early screening tools and travel restrictions to countries and regions outside china may help control global covid spread
+ID: fmqr2xoy,
+Text: canada fury at who ban
 
-ID: wmfcey6f,
-Text: tracking the origin of early covid cases in canada abstract the original coronavirus disease covid outbreak in wuhan china has become a global pandemic by tracking the earliest covid cases in canada we produced a voronoi treemap to show the travel origins of the country s earliest covid cases by march even though the majority of the world s covid confirmed cases still had their origin in china only of canada s first covid cases arose due in travelers to china the most commonly reported travel history among the cases originated from the middle east the united states and europe thus in retrospect broadening of early screening tools and travel restrictions to countries and regions outside china may help control global covid spread
-
-ID: ca4c6b8a,
-Text: modeling risk of infectious diseases a case of coronavirus outbreak in four countries background the novel coronavirus ncov outbreak has been a serious concern around the globe since people are in tremor due to the massive spread of coronavirus in the major parts of the world it requires to predict the risk of this infectious disease in this situation we develop a model to measure the risk of infectious disease and predict the risk of ncov transmission by using data of four countries united states australia canada and china methods the model underlies that higher the population density higher the risk of transmission of infectious disease from human to human besides population size case identification rate and travel of infected passengers in different regions are also incorporated in this model results according to the calculated risk index our study identifies new york state in united states us to be the most vulnerable area affected by the novel coronavirus besides other areas province state territory such as hubei china nd massachusetts us rd district of columbia us th new jersey us th quebec canada th australian capital territory australia th are also found as the most risky areas in us china australia and canada conclusion the study suggests avoiding any kind of mass gathering maintaining recommended physical distances and restricting inbound and outbound flights of highly risk prone areas for tackling ncov transmission
-
-ID: djlj6xyg,
-Text: a hospital partnership with a nursing home experiencing a covid outbreak description of a multi phase emergency response in toronto canada nursing homes have become ground zero for the coronavirus disease covid epidemic in north america with homes experiencing widespread outbreaks resulting in severe morbidity and mortality among its residents this manuscript describes a bed acute care hospital s emergency response to a bed nursing home experiencing a covid outbreak in toronto canada like other health care system responses to covid outbreaks in nursing homes this hospital nursing home partnership can be characterized in several phases engagement relationship and trust building environmental scan team building and immediate response early phase response and stabilization and transition period this article is protected by copyright all rights reserved
+ID: cietpenq,
+Text: first imported case of novel coronavirus in canada presenting as mild pneumonia
 
 ID: yrbalj5x,
 Text: canada porcine epidemic diarrhea in canada an emerging disease case study
 
-ID: ore5d84k,
-Text: a hospital partnership with a nursing home experiencing a covid outbreak description of a multiphase emergency response in toronto canada nursing homes have become ground zero for the coronavirus disease covid epidemic in north america with homes experiencing widespread outbreaks resulting in severe morbidity and mortality among their residents this article describes a bed acute care hospital s emergency response to a bed nursing home experiencing a covid outbreak in toronto canada like other healthcare system responses to covid outbreaks in nursing homes this hospital nursing home partnership can be characterized in several phases engagement relationship and trust building environmental scan team building and immediate response early phase response and stabilization and transition period j am geriatr soc
+ID: gmd0rcyh,
+Text: critical care canada forum abstracts
 
-ID: 4wybyyxr,
-Text: canada health system of this article describes how health care including public health is financed organized and delivered in canada particular attention is paid to recent developments and reforms that have led to greater integration of public health into provincial and regional health care systems as well as the establishment of the public health agency of canada phac at the national level
+ID: 3eq19uli,
+Text: critical care canada forum abstracts
 
-ID: vwwt70mo,
-Text: canada needs to rapidly escalate public health interventions for its covid mitigation strategies background after the declaration of covid pandemic on march th local transmission chains starting in different countries including canada are forcing governments to take decisions on public health interventions to mitigate the spread of the epidemic methods we conduct data driven and model free estimations for the growth rates of the covid epidemics in italy and canada by fitting an exponential curve to the daily reported cases we use these estimates to predict epidemic trends in canada under different scenarios of public health interventions results in italy the initial growth rate has reduced to two weeks after the lockdown of the country on march th this corresponds to an increase of the doubling time from about to almost days in comparison the growth rate in canada has increased from between march st and th to between march th to nd this current growth rate corresponds to a doubling time of days and therefore unless further public health interventions are escalated in canada we project cases by march st however the case number may be reduced to if escalated public health interventions could instantly reduce the growth rate to the same level achieved in italy interpretation prompt and farsighted interventions are critical to counteract the very rapid initial growth of the covid epidemic in canada mitigation plans must take into account the delayed effect of interventions by up to weeks and the short doubling time of days
+ID: c7cd91pg,
+Text: canada and covid learning from sars
 
-ID: qkr6jydj,
-Text: canada public health genomics canada has a diverse population of million people and a universal publicly funded health care system provided through provincial and territorial health insurance plans public health activities are resourced at provincial territorial level with strategic coordination from national bodies canada has one of the longest standing genetics professional specialty organizations and is one of the few countries offering master s level training designed specifically for genetic counselors prenatal screening is offered as part of routine clinical prenatal services with variable uptake surveillance of the effect of prenatal screening and diagnosis on the birth prevalence of congenital anomalies is limited by gaps and variations in surveillance systems newborn screening programs vary between provinces and territories in terms of organization and conditions screened for the last decade has witnessed a four fold increase in requests for genetic testing especially for late onset diseases tests are performed in provincial laboratories or outside canada there is wide variation in participation in laboratory quality assurance schemes and there are few regulatory frameworks in canada that are directly relevant to genetics testing services or population genetics health technology assessment in canada is conducted by a diverse range of organizations several of which have produced reports related to genetics several large scale population cohort studies are underway or planned with initiatives to harmonize their conduct and the management of ethical issues both within canada and with similar projects in other countries
+ID: 6cg7u1lu,
+Text: is canada ready for the second wave of covid
 
-ID: oqxx7s9v,
-Text: charting a research agenda for the advancement of nursing organizations influence on health systems and policy nursing organizations across canada play a significant role in influencing and shaping public policy the year of the nurse and the midwife is an opportune time not only to support nurses in building policy leadership but also to explore opportunities to better understand and strengthen the policy advocacy work of nursing organizations given various social political and economic forces the nature of organized nursing across canada is changing significantly we draw on recent key national and global events including our systematic inquiry into the canada s federal election the year of the nurse and midwife and the coronavirus pandemic to examine how canadian nursing organizations respond in highly complex and evolving contexts we use our observations to offer a vision and chart a research agenda for the advancement of nursing organizations influence on health systems and policy specifically we focus on three key areas including examining nursing organizations policy agendas and spheres of influence nursing organizations decision making around policy advocacy tactics and engagement approaches and the impact of policy advocacy coalitions and networks on nursing organizations influence
+ID: 748se9u3,
+Text: canada insists that it is a safe place to visit
 
-ID: 4lx5ft5u,
-Text: hospital based hta and know go at medici in london ontario canada the majority of healthcare in canada is universally provided and publicly funded through the provincial government
+ID: woylyufz,
+Text: the impact of covid on diabetes research in canada
 
-ID: 9k6klcno,
-Text: acute respiratory infections in travelers returning from mers cov affected areas we examined which respiratory pathogens were identified during screening for middle east respiratory syndrome coronavirus in symptomatic travelers returning to ontario canada from regions affected by the virus influenza a and b viruses and rhinovirus were the most common pathogens identified among these travelers
+ID: wb35wm6k,
+Text: first imported case of novel coronavirus in canada presenting as mild pneumonia vol pg
 
-ID: w6scpc65,
-Text: the united states and canada as a coupled epidemiological system an example from hepatitis a background hepatitis a ha is a low incidence non endemic disease in canada and the united states us however a large difference in ha incidence between canada and ha endemic countries has made travel an important contributor to hepatitis a prevalence in canada there is also a smaller incidence differential between canada and the us although the us has only moderately higher ha incidence the volume of travel by canadians to the us is many times higher than travel volume to endemic countries hence travel to the us may constitute a source of low to moderate risk for canadian travelers to our knowledge travel to the us has never been included as a potential risk factor for ha infection in canadian epidemiologic analyses the objective of this study was to use dynamic models to investigate the possible effects on hepatitis a incidence in canada due to implementing vaccination in the us and varying the volume of travel by canadians to the us methods we developed and analyzed age structured compartmental models for the transmission and vaccination of hepatitis a for both canada and the us models were parameterized using data on seroprevalence case reporting and travel patterns the potential effect of hepatitis a prevalence in the us on hepatitis a prevalence in canada was captured through a term representing infection of canadians due to travel in the us results the model suggests that approximately of ha cases in canada in the mid s may have been attributable to travel to the us a universal vaccination programme that attained coverage in young children in the us in the mid s could have reduced canadian incidence by within years conclusion since not all necessary data were available to parameterize the model the results should be considered exploratory however the analysis shows that under plausible assumptions the us may be more important for determining ha prevalence in canada than is currently supposed as international travel continues to grow making vaccination policies ever more relevant to populations beyond a country s borders such multi country models will most likely come into wider use as predictive aids for policy development
+ID: bp9xz9wk,
+Text: coronavirus
 
-ID: mh23h29f,
-Text: the impact of severe acute respiratory syndrome on the use of and requirements for filters in canada this article begins with a brief look at the epidemiology of sars in canada and then discusses barrier use and potential containment strategies that could be applied to the respiratory equipment and supportive procedures that have been implicated in the spread of sars or other respiratory infections the article ends with a discussion of how practice and regulations have changed in canada since sars and some suggestions on how practice or regulations could further improve
+ID: vj000wal,
+Text: coronavirus
 
-ID: o603gaxp,
-Text: regulatory oversight of human pathogens and toxins in canada from to federal oversight of human pathogens and toxins was limited to facilities importing human pathogens and toxins into canada under the human pathogens importation regulations hpir this narrow focus of authority restricted the government of canada s ability to regulate and monitor a full range of activities including those involving human pathogens and toxins acquired from domestic sources in the human pathogens and toxins act the act received royal assent to establish a national safety and security regime and expand oversight through a national standardized process to verify safe and secure use of human pathogens and toxins in canada the act and the human pathogens and toxins regulations the regulations in full force since december provides legislative and statutory requirements for the comprehensive oversight of the control of human pathogens and toxins in canada expanded regulation and monitoring program activities aim to reduce the risks posed by human pathogens and toxins and strengthen biosafety management systems that serve to protect the health of canadians
+ID: be0mr85h,
+Text: coronavirus
 
-ID: i48notp6,
-Text: sensitivity of nasopharyngeal swabs and saliva for the detection of severe acute respiratory syndrome coronavirus sars cov we enrolled consecutive in patients with covid at six hospitals in toronto canada and tested one nasopharyngeal swab saliva sample pair from each patient for sars cov overall sensitivity was for nasopharyngeal swabs and for saliva p ns difference in sensitivity was greatest for sample pairs collected later in illness
+ID: sfs5hsr9,
+Text: coronavirus
+
+ID: j1cdoxqs,
+Text: coronavirus
+
+ID: gxdb18i0,
+Text: canada and global health accelerate leadership now
+
+ID: v0o8duh7,
+Text: canada strengthens pandemic plan in wake of sars
+
+ID: lnnqir2b,
+Text: overcoming canada s healthcare challenges with analytics
+
+ID: r7g3qvah,
+Text: public health in canada what are the real issues
+
+ID: gowyo5q2,
+Text: sars in canada lessons learned for the blood operator
+
+ID: nclq3sm0,
+Text: covid in canada and the use of personal protective equipment
+
+ID: obeinwyq,
+Text: canada what should global health expect

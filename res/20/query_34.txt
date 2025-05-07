@@ -1,21 +1,54 @@
 
-ID: wwa71e7u,
-Text: explore the possible impact of bcg vaccination policy on the morbidity mortality and recovery rates due to covid infection background the coronavirus disease covid is the new form of an acute infectious respiratory disease and has quickly spread over most continents in the world recently it has been shown that bacille calmette guerin bcg might protect against covid this study aims to investigate the possible correlation between bcg vaccination and morbidity mortality recovery rate associated with covid infection methods data of covid confirmed cases deaths recoveries and population were obtained from https www worldometers info coronavirus accessed on june to have meaningful comparisons among countries mortality and recovery rates we only choose those countries with covid infected cases at least the poisson regression and logistic regression were used to explore the relationship between bcg vaccination and morbidity mortality and recovery rates results among those countries with at least covid infected cases there were countries with bcg vaccination information available the adjusted rates ratio of covid confirmed cases for current bcg vaccination vs non current bcg vaccination was with ci moreover the adjusted odds ratio or of death and recovery after coronavirus infected for current bcg vaccination vs non current bcg vaccination were with ci and with ci respectively conclusions that data in this study show the bcg might provide the protection against covid with consequent less covid infection and deaths and more rapid recovery bcg vaccine might bridge the gap before the disease specific vaccine is developed but this hypothesis needs to be further tested in rigorous randomized clinical trials
+ID: x4dcfjm8,
+Text: defining the recovery
+
+ID: iu0qkamo,
+Text: body recovery
+
+ID: 6hhkhi8o,
+Text: a covid recovery for climate
+
+ID: fm8buef9,
+Text: recovery from infection
+
+ID: fko57z33,
+Text: covid the road to recovery
+
+ID: xw09j3rk,
+Text: research disruptions and recovery
+
+ID: 3crjc97b,
+Text: a covid recovery for climate
 
 ID: 18kry58c,
 Text: disappearance of antibodies to sars associated coronavirus after recovery
 
-ID: eujbxdqi,
-Text: factors associated with recovery delay in a sample of patients diagnosed by mers cov rrt pcr a saudi arabian multicenter retrospective study background research evidence exists that poor prognosis is common in middle east respiratory syndrome coronavirus mers cov patients objectives this study estimates recovery delay intervals and identifies associated factors in a sample of saudi arabian patients admitted for suspected mers cov and diagnosed by rrt pcr assay methods a multicenter retrospective study was conducted on patients admitted between september and june and diagnosed by rrt pcr procedures to have mers cov and non mers cov infection in which achieved recovery detailed medical charts were reviewed for each patient who achieved recovery time intervals in days were calculated from presentation to the initial rrt pcr diagnosis diagnosis delay and from the initial rrt pcr diagnosis to recovery recovery delay results the median recovery delay in our sample was days according to the multivariate negative binomial model elderly age mers cov infection icu admission and abnormal radiology findings were associated with longer recovery delay adjusted relative risk arr and respectively camel contact and the presence of respiratory symptoms at presentation were associated with a shorter recovery delay expedited recovery arr and respectively diagnosis delay is a positive predictor for recovery delay r p conclusions the study evidence supports that longer recovery delay was seen in patients of older age mers cov infection icu admission and abnormal radiology findings shorter recovery delay was found in patients who had camel contact and respiratory symptoms at presentation these findings may help us understand clinical decision making on directing hospital resources toward prompt screening monitoring and implementing clinical recovery and treatment strategies
-
 ID: jt2nral8,
 Text: covid and sars coronavirus antibodies for the immediate rescue and recovery phase
 
-ID: kri89hqk,
-Text: coronavirus disease test results after clinical recovery and hospital discharge among patients in china
+ID: bp9xz9wk,
+Text: coronavirus
 
-ID: z29mdujv,
-Text: association between initial chest ct or clinical features and clinical course in patients with coronavirus disease pneumonia objective to identify the initial chest computed tomography ct findings and clinical characteristics associated with the course of coronavirus disease covid pneumonia materials and methods baseline ct scans and clinical and laboratory data of patients admitted with covid pneumonia men years were retrospectively analyzed baseline ct findings including lobar distribution presence of ground glass opacities consolidation linear opacities and lung severity score were evaluated the outcome event was recovery with hospital discharge the time from symptom onset to discharge or the end of follow up for those remained hospitalized was recorded data were censored in events such as death or discharge without recovery multivariable cox proportional hazard regression was used to explore the association between initial ct clinical or laboratory findings and discharge with recovery whereby hazard ratio hr values vs reference adjusted hr confidence interval ci p and initial lymphocyte count reduced vs normal or elevated reference adjusted hr ci p were two significant independent factors that influenced recovery and discharge conclusion lung severity score and reduced lymphocyte count at initial evaluation were independently associated with a significantly lower rate of recovery and discharge and extended hospitalization in patients admitted for covid pneumonia
+ID: vj000wal,
+Text: coronavirus
+
+ID: be0mr85h,
+Text: coronavirus
+
+ID: sfs5hsr9,
+Text: coronavirus
+
+ID: j1cdoxqs,
+Text: coronavirus
+
+ID: n2c14wra,
+Text: sixty seconds on the recovery trial
+
+ID: 29qqfufw,
+Text: sixty seconds on the recovery trial
+
+ID: qmd4gg5b,
+Text: early defervescence and sars recovery
 
 ID: dafuxkbf,
 Text: recovery from the coronavirus disease covid in two patients with coexisted hiv infection
@@ -23,38 +56,5 @@ Text: recovery from the coronavirus disease covid in two patients with coexisted
 ID: opbzqq9k,
 Text: coronavirus disease covid radiology department financial impact and planning for post covid recovery
 
-ID: 4s0l9haw,
-Text: association between initial chest ct or clinical features and clinical course in patients with coronavirus disease pneumonia objective to identify the initial chest computed tomography ct findings and clinical characteristics associated with the course of coronavirus disease covid pneumonia materials and methods baseline ct scans and clinical and laboratory data of patients admitted with covid pneumonia men years were retrospectively analyzed baseline ct findings including lobar distribution presence of ground glass opacities consolidation linear opacities and lung severity score were evaluated the outcome event was recovery with hospital discharge the time from symptom onset to discharge or the end of follow up for those remained hospitalized was recorded data were censored in events such as death or discharge without recovery multivariable cox proportional hazard regression was used to explore the association between initial ct clinical or laboratory findings and discharge with recovery whereby hazard ratio hr values vs reference adjusted hr confidence interval ci p and initial lymphocyte count reduced vs normal or elevated reference adjusted hr ci p were two significant independent factors that influenced recovery and discharge conclusion lung severity score and reduced lymphocyte count at initial evaluation were independently associated with a significantly lower rate of recovery and discharge and extended hospitalization in patients admitted for covid pneumonia
-
-ID: rv9ejld2,
-Text: diagnosis and recovery from severe acute respiratory syndrome coronavirus infection is challenging in kidney patients tests are an issue
-
-ID: ln8ddyuj,
-Text: persistence of lung inflammation and lung cytokines with high resolution ct abnormalities during recovery from sars background during the acute phase of severe acute respiratory syndrome sars mononuclear cells infiltration alveolar cell desquamation and hyaline membrane formation have been described together with dysregulation of plasma cytokine levels persistent high resolution computed tomography hrct abnormalities occur in sars patients up to days after recovery methods to determine further the time course of recovery of lung inflammation we investigated the hrct and inflammatory profiles and coronavirus persistence in bronchoalveolar lavage fluid balf of patients at recovery at and days results at days compared to normal controls sars patients had increased cellularity of balf with increased alveolar macrophages am and cd cells hrct scores were increased and correlated with t cell numbers and their subpopulations and inversely with cd cd ratio tnf α il il rantes and mcp levels were increased viral particles in am were detected by electron microscopy in of sars patients with high hrct score on day hrct scores improved significantly in of patients with normalization of balf cell counts in of patients with repeat bronchoscopy pulse steroid therapy and prolonged fever were two independent factors associated with delayed resolution of pneumonitis in this non randomized retrospective analysis conclusion resolution of pneumonitis is delayed in some patients during sars recovery and may be associated with delayed clearance of coronavirus complete resolution may occur by days or later
-
-ID: 3fom0e7j,
-Text: toulouse alzheimer s clinical research center recovery after the covid crisis telemedicine an innovative solution for clinical research during the coronavirus pandemic
-
-ID: vpzaoi6a,
-Text: reactivation of sars cov after recovery coronavirus disease covid has now spread worldwide as a global pandemic we report on an year old boy who might be a patient with reactivation of severe acute respiratory syndrome coronavirus sars cov in a family cluster
-
-ID: yx4g1l6d,
-Text: comparative global epidemiological investigation of sars cov and sars cov diseases using meta mums tool through incidence mortality and recovery rates covid is a novel coronavirus that was reported by the world health organization in late december as an unexplained respiratory disease epidemic which is similar to respiratory syndrome coronavirus sars cov it rapidly spread all over the world the study aims to compare several parameters of covid and sars cov infectious diseases in terms of incidence mortality and recovery rates the publicly available dataset worldometer extracted on april confirmed by who report was available for meta analysis purposes using the meta mums tool and the reported outcomes of the analysis used a random effects model to evaluate the event rate and risk ratios thorough subgroup analysis forest plots seventeen countries for covid and eight countries of sars infections including covid group n and sars cov group n were analyzed in this meta analysis a random effect model of relations of incidence mortality and recovery rates of covid and sars world infections were determined the meta analysis and forest plots of two viral world infections showed that the incidence rate of covid infection is more than sars infections while recovery and mortality event rates of sars cov are more than covid infection and subgroup analysis showed that the mortality and recovery rates were higher in both sars cov wand covid in comparison to incidence and mortality rates respectively in conclusion the meta analysis approach on the abovementioned dataset revealed the epidemiological and statistical analyses for comparing covid and sars cov outbreaks
-
-ID: vxprhxpv,
-Text: re recovery of elective facial plastic surgery in the post coronavirus disease era recommendations from the european academy of facial plastic surgery task force by unadkat et al
-
-ID: 2ybcwfhs,
-Text: response to whitehead et al re recovery of elective facial plastic surgery in the post coronavirus disease era recommendations from the european academy of facial plastic surgery task force
-
-ID: kuyaebas,
-Text: coronavirus disease test results after clinical recovery and hospital discharge among patients in china this cross sectional study used reverse transcriptase polymerase chain reaction tests to assess potential viral shedding among patients who previously had been diagnosed with and had clinically recovered from coronavirus disease
-
-ID: p8x7rdp8,
-Text: an analytical perspective on pandemic recovery after implementing restrictions to curb the spread of coronavirus governments in the united states and around the world are trying to identify the path to social and economic recovery the white house and the centers for disease control and prevention have published guidelines to assist us states counties and territories in planning these efforts as the impact of the coronavirus pandemic has not been uniform these central guidelines need to be translated into practice in ways that recognize variation among jurisdictions we present a core methodology to assist governments in this task presenting a case for appropriate actions at each stage of recovery based on scientific data and analysis specifically types of data are needed data on the spread of disease should be analyzed alongside data on the overall health of the population and data on infrastructure for example the capacity of health systems local circumstances will produce different needs and present different setbacks and governments may need to reinstate as well as relax restrictions transparent defensible analysis can assist in making these decisions and communicating them to the public in the absence of a widely administered vaccine analysis remains one of our most important tools in addressing the coronavirus pandemic
-
-ID: lph2xagx,
-Text: an analytical perspective on pandemic recovery after implementing restrictions to curb the spread of coronavirus governments in the united states and around the world are trying to identify the path to social and economic recovery the white house and the centers for disease control and prevention have published guidelines to assist us states counties and territories in planning these efforts as the impact of the coronavirus pandemic has not been uniform these central guidelines need to be translated into practice in ways that recognize variation among jurisdictions we present a core methodology to assist governments in this task presenting a case for appropriate actions at each stage of recovery based on scientific data and analysis specifically types of data are needed data on the spread of disease should be analyzed alongside data on the overall health of the population and data on infrastructure for example the capacity of health systems local circumstances will produce different needs and present different setbacks and governments may need to reinstate as well as relax restrictions transparent defensible analysis can assist in making these decisions and communicating them to the public in the absence of a widely administered vaccine analysis remains one of our most important tools in addressing the coronavirus pandemic
-
-ID: 6ujnd022,
-Text: detection of novel coronavirus in semen and testicular biopsy specimen of covid patients background as of march the covid outbreak was declared as a pandemic expending our understanding of the transmission routes of the viral infection is crucial in controlling the outbreak it is unclear whether the novel coronavirus ncov can directly infect the testes or male genital tract and be sexually transmitted from males methods from january to march patients in recovery and one patient died of covid were included in this descriptive study the clinical characteristics laboratory findings chest ct scans and outcome data were recorded to examine whether there is sexual transmission from male we employed realtime polymerase chain reaction testing rt pcr to detect ncov in semen or testicular biopsy specimen findings the age range of the patients in recovery was years none of the patients developed severe covid pneumonia as of march ten patients discharged from the hospital while the rest had developed into recovery stage all of the patients in recovery tested negative for ncov rna in semen samples another died patient was years old who died in march and tissue sample via testicular biopsy was tested negative for viral rna conclusion no positive rt pcr result was found in the semen or testicular biopsy specimen the results from this study show no evidence of sexual transmission of ncov from males
+ID: j1hsf4l0,
+Text: myocarditis detected after covid recovery

@@ -1,60 +1,60 @@
 
-ID: 73oe5as9,
-Text: a mathematical model reveals the influence of population heterogeneity on herd immunity to sars cov despite various levels of preventive measures in many countries have suffered severely from the coronavirus covid pandemic caused by the severe acute respiratory syndrome coronavirus sars cov virus we show that population heterogeneity can significantly impact disease induced immunity as the proportion infected in groups with the highest contact rates is greater than in groups with low contact rates we estimate that if r in an age structured community with mixing rates fitted to social activity then the disease induced herd immunity level can be around which is substantially less than the classical herd immunity level of obtained through homogeneous immunization of the population our estimates should be interpreted as an illustration of how population heterogeneity affects herd immunity rather than an exact value or even a best estimate
-
-ID: 3ol5ozz6,
-Text: a mathematical model reveals the influence of population heterogeneity on herd immunity to sars cov despite various levels of preventive measures in many countries have suffered severely from the coronavirus covid pandemic caused by the severe acute respiratory syndrome coronavirus sars cov virus we show that population heterogeneity can significantly impact disease induced immunity as the proportion infected in groups with the highest contact rates is greater than in groups with low contact rates we estimate that if r in an age structured community with mixing rates fitted to social activity then the disease induced herd immunity level can be around which is substantially less than the classical herd immunity level of obtained through homogeneous immunization of the population our estimates should be interpreted as an illustration of how population heterogeneity affects herd immunity rather than an exact value or even a best estimate
+ID: 83n6zx29,
+Text: immunization
 
 ID: cpp5zzgx,
 Text: coronavirus infection and immunity
 
-ID: 855h0e1k,
-Text: dendritic cell specific delivery of flt l by coronavirus vectors secures induction of therapeutic antitumor immunity efficacy of antitumor vaccination depends to a large extent on antigen targeting to dendritic cells dcs here we assessed antitumor immunity induced by attenuated coronavirus vectors which exclusively target dcs in vivo and express either lymphocyte or dc activating cytokines in combination with a gfp tagged model antigen tracking of in vivo transduced dcs revealed that vectors encoding for fms like tyrosine kinase ligand flt l exhibited a higher capacity to induce dc maturation compared to vectors delivering il or il moreover flt l vectors more efficiently induced tumor specific cd t cells expanded the epitope repertoire and provided both prophylactic and therapeutic tumor immunity in contrast il or il encoding vectors showed a substantially lower efficacy in cd t cell priming and failed to protect the host once tumors had been established thus specific in vivo targeting of dcs with coronavirus vectors in conjunction with appropriate conditioning of the microenvironment through flt l represents an efficient strategy for the generation of therapeutic antitumor immunity
+ID: 0avmt789,
+Text: coronavirus is the trigger but the immune response is deadly
 
-ID: p8vysrzk,
-Text: is innate immunity our best weapon for flattening the curve broadly activating innate immunity which has been achieved via unrelated vaccines or type i inf like factors may effectively treat or prevent covid and future coronavirus diseases
+ID: bp9xz9wk,
+Text: coronavirus
 
-ID: 3i466i1y,
-Text: children coronavirus dilemma other reasons rather then absence of prior immunity could play a crucial role in the children coronavirus dilemma
+ID: vj000wal,
+Text: coronavirus
 
-ID: 01q4pu9k,
-Text: cross immunity between respiratory coronaviruses may limit covid fatalities of the seven coronaviruses associated with disease in humans sars cov mers cov and sars cov cause considerable mortality but also share significant sequence homology and potentially antigenic epitopes capable of inducing an immune response the degree of similarity is such that perhaps prior exposure to one virus could confer partial immunity to another indeed data suggests a considerable amount of cross reactivity and recognition by the hosts immune response between different coronavirus infections while the ongoing covid outbreak rapidly overwhelmed medical facilities of particularly europe and north america accounting for of global deaths only of deaths have occurred in asia where the outbreak originated interestingly asia and the middle east have previously experienced multiple rounds of coronavirus infections perhaps suggesting buildup of acquired immunity to the causative sars cov that underlies covid this article hypothesizes that a causative factor underlying such low morbidity in these regions is perhaps at least in part due to acquired immunity from multiple rounds of coronavirus infections and discusses the mechanisms and recent evidence to support such assertions further investigations of such phenomenon would allow us to examine strategies to confer protective immunity perhaps aiding vaccine development
+ID: be0mr85h,
+Text: coronavirus
 
-ID: ygi1f5oy,
-Text: passive immunity for coronavirus disease a commentary on therapeutic aspects including convalescent plasma in the ongoing pandemic of coronavirus disease covid the novel virus sars cov severe acute respiratory syndrome coronavirus is infecting a naïve population the innate immunity of the infected patient is unable to mount an effective defense resulting in a severe illness with substantial morbidity and mortality as most treatment modalities including antivirals and anti inflammatory agents are mostly ineffective an immunological approach is needed the mechanism of innate immunity to this viral illness is not fully understood passive immunity becomes an important avenue for the management of these patients in this article the immune responses of covid patients are reviewed as sars cov has many characteristics in common with two other viruses sars cov that cause severe acute respiratory syndrome sars and mers cov middle east respiratory syndrome coronavirus that causes middle east respiratory syndrome mers the experiences learned from the use of passive immunity in treatment can be applied to covid the immune response includes the appearance of immunoglobulin m followed by immunoglobulin g and neutralizing antibodies convalescent plasma obtained from patients recovered from the illness with high titers of neutralizing antibodies was successful in treating many covid patients the factors that determine responses as compared with those seen in sars and mers are also reviewed as there are no approved vaccines against all three viruses it remains a challenge in the ongoing development for an effective vaccine for covid
+ID: sfs5hsr9,
+Text: coronavirus
 
-ID: puxz2f9g,
-Text: coronavirus membrane associated papain like proteases induce autophagy through interacting with beclin to negatively regulate antiviral innate immunity autophagy plays important roles in modulating viral replication and antiviral immune response coronavirus infection is associated with the autophagic process however little is known about the mechanisms of autophagy induction and its contribution to coronavirus regulation of host innate responses here we show that the membrane associated papain like protease plp plp tm of coronaviruses acts as a novel autophagy inducing protein intriguingly plp tm induces incomplete autophagy process by increasing the accumulation of autophagosomes but blocking the fusion of autophagosomes with lysosomes furthermore plp tm interacts with the key autophagy regulators lc and beclin and promotes beclin interaction with sting the key regulator for antiviral ifn signaling finally knockdown of beclin partially reverses plp tm s inhibitory effect on innate immunity which resulting in decreased coronavirus replication these results suggested that coronavirus papain like protease induces incomplete autophagy by interacting with beclin which in turn modulates coronavirus replication and antiviral innate immunity
+ID: j1cdoxqs,
+Text: coronavirus
 
-ID: lidhg4uy,
-Text: immunity to transmissible coronaviral enteritis of turkeys bluecomb turkey flocks recovering from natural and laboratory induced coronaviral enteritis developed lifelong immunity virus neutralization tests indicated that neutralization capacity of serums from recovered turkeys was low one way cross challenge test using turkeys inoculated with various bluecomb isolates revealed close antigenic relationship or antigenic identity among bluecomb isolates the controlled application of intestinal preparations containing coronavirus as a vaccination procedure had value in developing active lasting immunity but it has limitations in areas that are attempting to eliminate the disease by a depopulation program killed vaccines injected parenterally did not produce a detectable immunity
+ID: 7wz83efn,
+Text: immune dysregulation
 
-ID: 7ggdm8vc,
-Text: possible causes for decreased susceptibility of children to coronavirus impact the possible reason about non susceptibility of children to coronavirus may lie in different angiotensin converting enzyme ace activity and immunity of children the first possible reason is about ace activity a research revealed that children had higher ace activities the next possible reason is about immunity some adjuvant drug such as thymosin may provide benefit help for ncov patients
+ID: o7mfgehj,
+Text: immunity to infection
 
-ID: y8fmls6v,
-Text: passive immunity for coronavirus disease a commentary on therapeutic aspects including convalescent plasma in the ongoing pandemic of coronavirus disease covid the novel virus sars cov severe acute respiratory syndrome coronavirus is infecting a naïve population the innate immunity of the infected patient is unable to mount an effective defense resulting in a severe illness with substantial morbidity and mortality as most treatment modalities including antivirals and anti inflammatory agents are mostly ineffective an immunological approach is needed the mechanism of innate immunity to this viral illness is not fully understood passive immunity becomes an important avenue for the management of these patients in this article the immune responses of covid patients are reviewed as sars cov has many characteristics in common with two other viruses sars cov that cause severe acute respiratory syndrome sars and mers cov middle east respiratory syndrome coronavirus that causes middle east respiratory syndrome mers the experiences learned from the use of passive immunity in treatment can be applied to covid the immune response includes the appearance of immunoglobulin m followed by immunoglobulin g and neutralizing antibodies convalescent plasma obtained from patients recovered from the illness with high titers of neutralizing antibodies was successful in treating many covid patients the factors that determine responses as compared with those seen in sars and mers are also reviewed as there are no approved vaccines against all three viruses it remains a challenge in the ongoing development for an effective vaccine for covid
+ID: epc3xjwp,
+Text: theme immunization
 
-ID: b8a94hoj,
-Text: coronavirus immunity from t cells to b cells
+ID: 1kt0qowx,
+Text: mucosal immunity
 
-ID: dqnhyqn0,
-Text: t cells found in coronavirus patients bode well for long term immunity
+ID: yg9q5l7d,
+Text: viruses immunity to
 
-ID: wh9vvgv2,
-Text: t cell immunity of sars cov implications for vaccine development against mers cov abstract over years have elapsed since severe acute respiratory syndrome sars triggered the first global alert for coronavirus infections virus transmission in humans was quickly halted by public health measures and human infections of sars coronavirus sars cov have not been observed since however other coronaviruses still pose a continuous threat to human health as exemplified by the recent emergence of middle east respiratory syndrome mers in humans the work on sars cov widens our knowledge on the epidemiology pathophysiology and immunology of coronaviruses and may shed light on mers coronavirus mers cov it has been confirmed that t cell immunity plays an important role in recovery from sars cov infection herein we summarize t cell immunological studies of sars cov and discuss the potential cross reactivity of the sars cov specific immunity against mers cov which may provide useful recommendations for the development of broad spectrum vaccines against coronavirus infections
+ID: mvc3eq8n,
+Text: immunity to pathogens
 
-ID: ctikde7d,
-Text: dendritic cell specific antigen delivery by coronavirus vaccine vectors induces long lasting protective antiviral and antitumor immunity efficient vaccination against infectious agents and tumors depends on specific antigen targeting to dendritic cells dcs we report here that biosafe coronavirus based vaccine vectors facilitate delivery of multiple antigens and immunostimulatory cytokines to professional antigen presenting cells in vitro and in vivo vaccine vectors based on heavily attenuated murine coronavirus genomes were generated to express epitopes from the lymphocytic choriomeningitis virus glycoprotein or human melan a in combination with the immunostimulatory cytokine granulocyte macrophage colony stimulating factor gm csf these vectors selectively targeted dcs in vitro and in vivo resulting in vector mediated antigen expression and efficient maturation of dcs single application of only low vector doses elicited strong and long lasting cytotoxic t cell responses providing protective antiviral and antitumor immunity furthermore human dcs transduced with melan a recombinant human coronavirus e efficiently activated tumor specific cd t cells taken together this novel vaccine platform is well suited to deliver antigens and immunostimulatory cytokines to dcs and to initiate and maintain protective immunity
+ID: zn7na974,
+Text: passive immunization
 
-ID: bal3g2z7,
-Text: a candidate sars associated coronavirus vaccine elicits broad immunity in monkeys
+ID: aeo9l81q,
+Text: immunization in canada
 
-ID: 87b87mys,
-Text: herd immunity understanding covid the emergence of severe acute respiratory syndrome coronavirus sars cov and its associated disease covid has demonstrated the devastating impact of a novel infectious pathogen on a susceptible population here we explain the basic concepts of herd immunity and discuss its implications in the context of covid
+ID: bn39czpv,
+Text: immunity to viruses
 
-ID: wfftfkam,
-Text: covid is milder in children possibly due to cross immunity it has been unclear why the new severe acute respiratory syndrome coronavirus sars cov hits a small minority hard while the vast majority of children appear to be protected and develop mild or no disease the editorial by brodin suggests some possible mechanisms why it is so i would like to emphasize the significance of cross immunity due to previous exposure to seasonal coronavirus it may be a plausible explanation for why children appear to be protected
+ID: rmpbbd8d,
+Text: immune mediated mechanism in coronavirus fulminant myocarditis
 
-ID: qvnrwb1r,
-Text: t cells found in coronavirus patients bode well for long term immunity
+ID: wki0gay2,
+Text: coronavirus disease covid and immune engaging cancer treatment
+
+ID: oqg8eoxw,
+Text: coronavirus disease covid and immune engaging cancer treatment
